@@ -1,0 +1,31 @@
+// color definitions.
+// http://chir.ag/projects/name-that-color
+// e.g., $color__key-lime-pie: #abc123;
+
+// Branding colors.
+// e.g., $color__branding--primary: $color__key-lime-pie;
+
+// Basic colors.
+$color__black: #000;
+$color__white: #fff;
+
+// Color values.
+$color__blue-midnight: #0D0332;
+$color__blue-pickled-bluewood: #32455E;
+$color__brown-potters-clay: #985A36;
+$color__brown-tumbleweed: #DCA576;
+$color__grey-alto: #D8D8D8;
+
+
+// Brand colors.
+$color__brand-dark-blue: $color__blue-midnight;
+$color__brand-blue: $color__blue-pickled-bluewood;
+$color__brand-brown: $color__brown-potters-clay;
+$color__brand-soft-brown: $color__brown-tumbleweed;
+$color__brand-grey: $color__grey-alto;
+
+// Shade of grey colors.
+$color__grey--darken: darken($color__black, 10%);
+$color__grey--lighten: lighten($color__black, 10%);
+$color__grey--soft: lighten($color__black, 60%);
+$color__grey--soften: light($color__black, 98%);

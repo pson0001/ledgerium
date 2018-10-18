@@ -1,0 +1,40 @@
+.space-xl, .space-lg {
+  display: block; }
+
+.space-xl {
+  height: 60px; }
+
+.md-display-4 {
+  font-size: calc(0.95965vw + 30.52756px); }
+
+.md-display-3 {
+  font-size: calc(0.95965vw + 28.52756px); }
+
+.md-display-2 {
+  font-size: calc(0.95965vw + 26.52756px); }
+
+.md-display-1 {
+  font-size: calc(0.95965vw + 24.52756px); }
+
+.md-headline {
+  font-size: calc(0.95965vw + 22.52756px); }
+
+.md-title {
+  font-size: calc(0.95965vw + 20.52756px); }
+
+.md-subheading {
+  font-size: calc(0.95965vw + 18.52756px);
+  font-weight: 400;
+  line-height: auto; }
+
+.md-body-1 {
+  font-size: calc(0.72589vw + 12.6811px);
+  line-height: auto; }
+
+.md-body-2 {
+  font-size: calc(0.47982vw + 13.26378px);
+  line-height: auto; }
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #32455E; }
