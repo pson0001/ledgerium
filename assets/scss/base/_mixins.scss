@@ -61,3 +61,19 @@
   @return calc(#{$m*100}vw + #{$b}px);
 
 }
+
+// Typography mixins.
+@mixin typography--font($size: $font--size, $family: 'default', $weight: $font__weight--light, $line-height: $typography__line-height) {
+  @if $family == 'default' {
+    $family: $font__type--default;
+  } @else if $family == 'Roboto' {
+    $family: $font__family__poppins;
+  }
+
+  font: {
+    family: $family;
+    size: $size;
+    weight: $weight;
+  }
+  line-height: $line-height;
+}

@@ -1,13 +1,10 @@
 @import "../../node_modules/bulma/sass/utilities/initial-variables";
 @import "../../node_modules/bulma/sass/utilities/functions";
+@import "../../node_modules/bulma/bulma.sass";
 
 @import 'base/colours';
 @import 'base/fonts';
 @import 'base/principal';
 @import 'base/mixins';
 @import 'base/typography';
-
-body {
-    font-family: $font__type--default;
-    color: $color__brand-blue;
-}
+@import 'styles';
