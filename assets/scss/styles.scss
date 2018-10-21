@@ -1,9 +1,16 @@
+
 body {
     font-family: $font__type--default;
     color: $color__brand-blue;
 }
+
+// Navegation
+
+.navbar {
+    background: $color__brand-blue;
+}
 .navbar-menu {
-    @include typography--font('14', 'roboto', $font__weight--bold, 19px);
+    @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
 
     height: 90px;
     letter-spacing: 3.2px;
@@ -13,5 +20,52 @@ body {
 
     a {
         color:$color__white;
+        &:hover {
+            background: $color__brand-blue;
+            color: $color__brand-soft-brown;
+        }
     }  
-}   
+}
+.navbar-brand {
+    a,
+    &:hover {
+        background: $color__brand-blue; 
+    }
+    .navbar-item {
+        background: $color__brand-blue;
+        img {
+            max-height: 48px;
+        }
+    }
+}
+
+.navbar-start {
+    padding-right: $column-gap * 2;
+}
+
+.navbar-item.has-dropdown:hover .navbar-link,
+.navbar-item.has-dropdown.is-active .navbar-link {
+    background: $color__brand-blue;
+    &:hover {
+        background: $color__brand-blue;
+    }
+}
+.navbar-link {
+    &::after {
+        border-color: $color__white;
+    }
+}
+.navbar-dropdown {
+    background: $color__brand-blue;
+    border: 0;
+
+    a.navbar-item {
+        background: none;
+        color: $color__white;
+        &:hover {
+            background: none;
+            color: $color__brand-soft-brown;
+        }
+    }
+}
+

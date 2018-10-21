@@ -6460,9 +6460,12 @@ body {
   font-family: "Roboto", sans-serif;
   color: #32455E; }
 
+.navbar {
+  background: #32455E; }
+
 .navbar-menu {
   font-family: "roboto";
-  font-size: "14";
+  font-size: 14px;
   font-weight: 700;
   line-height: 19px;
   height: 90px;
@@ -6472,3 +6475,36 @@ body {
   color: #fff; }
   .navbar-menu a {
     color: #fff; }
+    .navbar-menu a:hover {
+      background: #32455E;
+      color: #DCA576; }
+
+.navbar-brand a, .navbar-brand:hover {
+  background: #32455E; }
+
+.navbar-brand .navbar-item {
+  background: #32455E; }
+  .navbar-brand .navbar-item img {
+    max-height: 48px; }
+
+.navbar-start {
+  padding-right: 1.5rem; }
+
+.navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link {
+  background: #32455E; }
+  .navbar-item.has-dropdown:hover .navbar-link:hover,
+  .navbar-item.has-dropdown.is-active .navbar-link:hover {
+    background: #32455E; }
+
+.navbar-link::after {
+  border-color: #fff; }
+
+.navbar-dropdown {
+  background: #32455E;
+  border: 0; }
+  .navbar-dropdown a.navbar-item {
+    background: none;
+    color: #fff; }
+    .navbar-dropdown a.navbar-item:hover {
+      background: none;
+      color: #DCA576; }
