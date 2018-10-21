@@ -15,7 +15,6 @@ body {
     height: 90px;
     letter-spacing: 3.2px;
     text-transform: uppercase;
-    background: $color__brand-blue;
     color: $color__white;
 
     a {
@@ -69,3 +68,32 @@ body {
     }
 }
 
+// Footer
+
+.footer {
+    background: $color__brand-dark-blue;
+    color: $color__white;
+
+    a {
+        color: $color__brand-soft-brown;
+        &:hover {
+            color: $color__brand-brown;
+        }
+    }
+
+    .twitter-feed {
+        p {
+            margin-bottom: $column-gap * 2;
+        }
+    }
+
+    h4 {
+        @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
+
+        height: 20px;
+        letter-spacing: 3.2px;
+        text-transform: uppercase;
+        color: $color__brand-soft-brown;
+        margin-bottom: $column-gap * 4;
+    }
+}

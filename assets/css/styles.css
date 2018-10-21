@@ -6471,7 +6471,6 @@ body {
   height: 90px;
   letter-spacing: 3.2px;
   text-transform: uppercase;
-  background: #32455E;
   color: #fff; }
   .navbar-menu a {
     color: #fff; }
@@ -6508,3 +6507,23 @@ body {
     .navbar-dropdown a.navbar-item:hover {
       background: none;
       color: #DCA576; }
+
+.footer {
+  background: #191919;
+  color: #fff; }
+  .footer a {
+    color: #DCA576; }
+    .footer a:hover {
+      color: #985A36; }
+  .footer .twitter-feed p {
+    margin-bottom: 1.5rem; }
+  .footer h4 {
+    font-family: "roboto";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    height: 20px;
+    letter-spacing: 3.2px;
+    text-transform: uppercase;
+    color: #DCA576;
+    margin-bottom: 3rem; }
