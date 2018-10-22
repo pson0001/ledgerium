@@ -38,7 +38,11 @@
   </section>
   <!-- /.hero-head -->
 
-  <section class="tabs is-medium is-centered">
+  <section class="spacer">
+    <h2 class="section-title has-text-centered">Ledgerium</h2>
+  </section>
+
+  <section class="tabs is-centered">
     <ul>
       <li class="is-active"><a>Blockchain technology</a></li>
       <li><a>Modern Accounting</a></li>

@@ -95,6 +95,30 @@ body {
     }
 }
 
+// Titles
+.section-title {
+    color: $color__brand-dark-blue;
+    letter-spacing: 8.56px;
+    text-transform: uppercase;
+
+    @include typography--font(24px, 'roboto', $font__weight--bold, 32px);
+}
+
+.spacer {
+    padding: $column-gap * 4 0;
+}
+
+// Tabs 
+
+.tabs {
+    color: $color__brand-dark-blue;
+    font-size: 20px;
+	letter-spacing: 3px;
+    text-transform: uppercase;
+
+    @include typography--font(20px, 'roboto', $font__weight--bold, 26px);
+}
+
 // Footer
 
 .footer {
