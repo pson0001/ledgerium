@@ -5,7 +5,6 @@ body {
 }
 
 // Navegation
-
 .navbar {
     background: $color__brand-blue;
 }
@@ -65,6 +64,34 @@ body {
             background: none;
             color: $color__brand-soft-brown;
         }
+    }
+}
+
+//Hero 
+.hero {
+    background: url(../images/city-ledgerium.png) center / cover $color__black;
+
+    .navbar {
+        background: $color__brand-blue;
+    }
+    h1 {
+        color: $color__white;
+
+        &.title {
+            @include typography--font(46px, 'roboto', $font__weight--light, 60px);
+        } 
+    }
+    .tile {
+        a {
+            color: $color__brand-soft-brown;
+            &:hover {
+                color: $color__brand-brown;
+            } 
+        }
+    }
+    .down-arrow {
+        position: relative;
+        bottom: $column-gap * 2;
     }
 }
 

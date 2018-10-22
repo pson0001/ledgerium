@@ -17,44 +17,34 @@
     <?php include('templates/head.php'); ?> 
   </head>
   <body>
-    <?php include('templates/navegation.php'); ?> 
 
-  <section class="hero is-fullheight is-black">
-      <!-- .hero-head -->
-      <div class="hero-head">
-        <div class="columns is-mobile is-marginless">            
-          <section class="section">
-            <div class="container">
-              <h1 class="title">
-                The Advanced Accounting
-                Ledger on the Blockchain</h1>
-              <p>Maecenas vel pharetra mauris. Cras vitae vestibulum ligula. In sit amet ornare sapien. Nulla facilisi. Donec dui mauris, posuere a tincidunt non, porttitor a lacus. Sed porta eget nisl in posuere. Aliquam gravida a lectus eget maximus. </p>
-              <a href="#">Read the whitepaper →</a>
-              <a href="#">Read the whitepaper →</a>
-            </div>
-          </section>
+  <!-- .hero-head -->
+  <section class="hero is-fullheight is-large">
+    <div class="hero-body">
+    <?php include('templates/navegation.php'); ?> 
+      <div class="container">
+        <div class="tile is-5 is-vertical">
+          <h1 class="title">
+              The Advanced Accounting
+              Ledger on the Blockchain</h1>
+            <div><a href="#">Read the whitepaper →</a></div>
+            <div><a href="#">LGUM Token →</a></div>
         </div>
       </div>
-      <!-- /.hero-head -->
+    </div>
+    <div class="container has-text-centered down-arrow">
+        <img src="assets/images/down-arrow.svg" width="22" height="22">
+    </div> 
   </section>
+  <!-- /.hero-head -->
 
-  <section class="tabs is-medium">
+  <section class="tabs is-medium is-centered">
     <ul>
       <li class="is-active"><a>Blockchain technology</a></li>
       <li><a>Modern Accounting</a></li>
       <li><a>Cloud technology</a></li>
       <li><a>Secure</a></li>
     </ul>
-    <div class="tab-container">
-      <div>
-        <video>video</video>
-      </div>
-      <div>
-        <h2>Blockchain technology</h2>
-        <h3>Ledger systems</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
-      </div>
-    </div>
   </section>
 
     <?php include('templates/sidebar.php'); ?>
