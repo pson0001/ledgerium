@@ -70,6 +70,7 @@ body {
 //Hero 
 .hero {
     background: url(../images/city-ledgerium.png) center / cover $color__black;
+    overflow: hidden;
 
     .navbar {
         background: $color__brand-blue;
@@ -139,12 +140,31 @@ body {
     }
 
     h4 {
-        @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
-
         height: 20px;
         letter-spacing: 3.2px;
         text-transform: uppercase;
         color: $color__brand-soft-brown;
         margin-bottom: $column-gap * 4;
+
+        @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
+    }
+}
+
+// Pages
+.super-big {
+    height: 160px;
+    letter-spacing: -1.67px;
+    text-transform: uppercase;
+    position: relative;
+    bottom:-35px;
+    
+    @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
+}
+
+// About us
+
+.about-us {
+    .down-arrow {
+        bottom: $column-gap * 16;
     }
 }

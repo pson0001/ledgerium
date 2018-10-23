@@ -1,3 +1,4 @@
+
 <?php
 /****************************************************
 *
@@ -14,43 +15,38 @@
 <html class="no-js">
 <!--<![endif]-->       
   <head>
-  <title>Ledgerium || Blockchain accounting system</title>
+    <title>Ledgerium || About Us</title>
     <?php include('templates/head.php'); ?> 
   </head>
-  <body>
+  <body class="about-us">
 
   <!-- .hero-head -->
   <section class="hero is-fullheight is-large">
     <div class="hero-body">
     <?php include('templates/navegation.php'); ?> 
       <div class="container">
-        <div class="tile is-5 is-vertical">
-          <h1 class="title">
-              The Advanced Accounting
-              Ledger on the Blockchain</h1>
-            <div><a href="#">Read the whitepaper →</a></div>
-            <div><a href="#">LGUM Token →</a></div>
-        </div>
+      <h1 class="title has-text-centered">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum commodo diam sit amet vestibulum. Nulla elementum varius libero a facilisis.</h1>
       </div>
     </div>
     <div class="container has-text-centered down-arrow">
         <img src="assets/images/down-arrow.svg" width="22" height="22">
     </div> 
+
+    <div class="hero-foot">
+    <nav class="tabs is-boxed is-fullwidth">
+      <div class="container">
+      <h1 class="super-big has-text-centered">About us</h1>
+      </div>
+    </nav>
+  </div>
   </section>
   <!-- /.hero-head -->
 
+  <!-- .content -->
   <section class="spacer">
-    <h2 class="section-title has-text-centered">Ledgerium</h2>
+    <h2 class="section-title has-text-centered">Our team</h2>
   </section>
-
-  <section class="tabs is-centered">
-    <ul>
-      <li class="is-active"><a>Blockchain technology</a></li>
-      <li><a>Modern Accounting</a></li>
-      <li><a>Cloud technology</a></li>
-      <li><a>Secure</a></li>
-    </ul>
-  </section>
+  <!-- /.content -->
 
     <?php include('templates/sidebar.php'); ?>
     <?php include('templates/console.php'); ?>
