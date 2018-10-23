@@ -14,6 +14,7 @@
 <html class="no-js">
 <!--<![endif]-->       
   <head>
+  <title>Ledgerium || Blockchain accounting system</title>
     <?php include('templates/head.php'); ?> 
   </head>
   <body>

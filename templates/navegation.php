@@ -14,7 +14,7 @@
     <div class="navbar-end">
     <div id="navbar" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item">
+      <a href="about-us.php" class="navbar-item">
         About us
       </a>
       <a class="navbar-item">
