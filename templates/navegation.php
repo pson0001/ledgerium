@@ -17,11 +17,8 @@
       <a href="about-us.php" class="navbar-item">
         About us
       </a>
-      <a class="navbar-item">
+      <a href="roadmap.php" class="navbar-item">
         Roadmap
-      </a>
-      <a class="navbar-item">
-        About us
       </a>
       <a class="navbar-item">
         Partners

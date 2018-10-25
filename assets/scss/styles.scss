@@ -105,9 +105,6 @@ body {
     @include typography--font(24px, 'roboto', $font__weight--bold, 32px);
 }
 
-.spacer {
-    padding: $column-gap * 4 0;
-}
 
 // Tabs 
 
@@ -159,6 +156,42 @@ body {
     bottom:-35px;
     
     @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
+}
+
+.photo-profile {
+    position: relative;
+
+    a {
+        position: absolute;
+        z-index: 1;
+        right: $column-gap;
+        height: 76px;
+        width: 76px;
+        background: $color__white;
+        color: $color__brand-blue;
+
+        &:hover {
+            color: $color__brand-soft-brown;
+        }
+    }
+}
+
+.social-icons a {
+    color: $color__brand-dark-blue;
+    text-decoration: none;
+}
+
+.fa {
+    font-size: 3em;
+    padding: 0.3em 0.36em;
+}
+
+.fa-linkedin {
+    background-color: $color__white;
+}
+
+.fa-linkedin:hover {
+    background-color: $color__white;
 }
 
 // About us

@@ -40,7 +40,7 @@
   <!-- /.hero-head -->
 
   <!-- .tabs-->
-  <section class="spacer">
+  <section class="section is-small">
     <h2 class="section-title has-text-centered">Ledgerium</h2>
   </section>
 
@@ -80,7 +80,7 @@
 
     <!-- /.tabs-->
 
-  <section class="spacer">
+  <section class="section is-small">
     <h2 class="section-title has-text-centered">Who needs ledgerium</h2>
   </section>
 
@@ -132,7 +132,7 @@
     </div>
   </div>
 
-  <section class="spacer">
+  <section class="section is-small">
     <h2 class="section-title has-text-centered">Who is talking about us?</h2>
   </section>
 
@@ -140,7 +140,7 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac massa non massa dapibus blandit et non dui.</p>
   </div>
 
-  <section class="spacer">
+  <section class="section is-small">
     <h2 class="section-title has-text-centered">Fin out more</h2>
   </section>
 
@@ -174,10 +174,6 @@
   </div>
     <script src="../js/bulma.js"></script>
     <script src="../js/tabs.js"></script>
-
-    <?php include('templates/sidebar.php'); ?>
-    <?php include('templates/console.php'); ?>
-    <?php include('templates/front-gallery.php'); ?>
     <?php include('templates/footer.php'); ?>
   </body>
 </html>
