@@ -32,13 +32,9 @@
         <img src="assets/images/down-arrow.svg" width="22" height="22">
     </div> 
 
-    <div class="hero-foot">
-    <nav class="tabs is-boxed is-fullwidth">
-      <div class="container">
-      <h1 class="super-big has-text-centered">About us</h1>
+      <div class="text-container">
+        <h1 class="super-big has-text-centered">About us</h1>
       </div>
-    </nav>
-  </div>
   </section>
   <!-- /.hero-head -->
 

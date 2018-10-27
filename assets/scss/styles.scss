@@ -148,12 +148,19 @@ body {
 }
 
 // Pages
+.text-container {
+    position: relative;
+    width: 100%;
+}
 .super-big {
     height: 160px;
     letter-spacing: -1.67px;
     text-transform: uppercase;
+    text-align: center;
     position: relative;
     bottom:-35px;
+    position: absolute;
+    width: 100%;
     
     @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
 }
@@ -199,5 +206,94 @@ body {
 .about-us {
     .down-arrow {
         bottom: $column-gap * 16;
+    }
+}
+
+// Timeline
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+
+    &.is-centered {
+        width: 50%;
+        align-self: flex-end;
+        margin: auto;
+    }
+
+    .timeline-content {
+        text-align: center;
+        padding: 1rem 3rem;
+        h2,
+        p {
+            width: 100%;
+        }
+    }
+
+    .timeline-marker{
+        background: white;
+        border: 2px solid;
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        border-radius: 50%;
+    }
+
+
+    .timeline-item {
+        display: flex;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        position: relative;
+        align-self: flex-end;
+        width: 50%;
+        &::before {
+            content: "";
+            background-color: $color__brand-dark-blue;
+            display: block;
+            width: .1em;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        &:last-child::before {
+            background: $color__white;
+        }
+
+        &:nth-of-type(2n) {
+            align-self: flex-start;
+            margin-left: 0;
+
+            .timeline-marker{
+                right: -20px ;
+            }
+
+            .timeline-content {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+                flex-basis: 100%;
+            }
+            
+            &::before {
+                right: -0.1em;
+                left: auto; 
+            }
+        }
+        &:nth-of-type(2n+1) {
+            &::before {
+                content: "";
+                background-color: $color__brand-dark-blue;
+                display: block;
+                width: .1em;
+                height: 100%;
+                position: absolute;
+                top: 0;
+            }
+            .timeline-marker{
+                left: -20px;
+            }
+        }
     }
 }

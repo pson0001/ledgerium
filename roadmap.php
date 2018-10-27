@@ -32,64 +32,68 @@
         <img src="assets/images/down-arrow.svg" width="22" height="22">
     </div> 
 
-    <div class="hero-foot">
-    <nav class="tabs is-boxed is-fullwidth">
-      <div class="container">
-      <h1 class="super-big has-text-centered">Roadmap</h1>
-      </div>
-    </nav>
+  <div class="text-container">
+    <h1 class="super-big has-text-centered">Roadmap</h1>
   </div>
   </section>
   <!-- /.hero-head -->
 
   <!-- .content -->
-  <section class="spacer">
+  <section class="section is-small"">
     <h2 class="section-title has-text-centered">Helping businness to use blockchain</h2>
   </section>
 
-<div class="timeline is-centered">
-  <header class="timeline-header">
-    <span class="tag is-medium is-primary">Start</span>
-  </header>
-  <div class="timeline-item is-primary">
-    <div class="timeline-marker is-primary"></div>
-    <div class="timeline-content">
-      <p class="heading">January 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
+  <div class="timeline is-centered">
+    <div class="timeline-item">
+    <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h2>Morbi cursus gravida</h2>
+        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h2>Morbi cursus gravida</h2>
+        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h2>Morbi cursus gravida</h2>
+        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h2>Morbi cursus gravida</h2>
+        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
+      </div>
     </div>
   </div>
-  <div class="timeline-item is-warning">
-    <div class="timeline-marker is-warning is-image is-32x32">
-      <img src="http://bulma.io/images/placeholders/32x32.png">
+
+
+  <!-- .hero-head -->
+  <section class="hero is-fullheight is-large">
+    <div class="hero-body">
+      <div class="container">
+        <div class="tile is-5 is-vertical">
+          <h1 class="title">
+              The Advanced Accounting
+              Ledger on the Blockchain</h1>
+            <div><a href="#">Read the whitepaper →</a></div>
+            <div><a href="#">LGUM Token →</a></div>
+        </div>
+      </div>
     </div>
-    <div class="timeline-content">
-      <p class="heading">February 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-primary">2017</span>
-  </header>
-  <div class="timeline-item is-danger">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-flag"></i>
-    </div>
-    <div class="timeline-content">
-      <p class="heading">March 2017</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-medium is-primary">End</span>
-  </header>
-</div>
+  </section>
+  <!-- /.hero-head -->
 
   
   <!-- /.content -->
 
-    <?php include('templates/sidebar.php'); ?>
-    <?php include('templates/console.php'); ?>
-    <?php include('templates/front-gallery.php'); ?>
     <?php include('templates/footer.php'); ?>
   </body>
 </html>
