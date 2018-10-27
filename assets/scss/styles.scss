@@ -151,6 +151,8 @@ body {
 .text-container {
     position: relative;
     width: 100%;
+    display: block;
+    height: 100%;
 }
 .super-big {
     height: 160px;
@@ -161,8 +163,15 @@ body {
     bottom:-35px;
     position: absolute;
     width: 100%;
+    color: $color__white;
     
     @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
+}
+.header-title {
+    background-color: $color__brand-blue-secondary;
+    height: 250px;
+    width: 100%;
+    color: $color__white;
 }
 
 .photo-profile {
@@ -296,4 +305,10 @@ body {
             }
         }
     }
+}
+
+// Contact
+
+.contact-bg {
+    background: url(../images/city-ledgerium.png) center / cover $color__black;
 }

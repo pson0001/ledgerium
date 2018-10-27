@@ -141,35 +141,47 @@
   </div>
 
   <section class="section is-small">
-    <h2 class="section-title has-text-centered">Fin out more</h2>
+    <h2 class="section-title has-text-centered">Find out more</h2>
   </section>
+
+<div class="contact-bg">
+<div class="container">
 
   <div class="form">
   <h2>Get our pitch pack</h2>
-  <div class="columns">
-    <div class="control">
-      <label>Name</label>
-      <input class="input" type="text" placeholder="Text input">
-    </div>
-    <div class="control">
-    <label>Name</label>
-      <input class="input" type="text" placeholder="Text input">
-    </div>
-    <div class="form">
-      <a class="btn">Submit</a>
-    </div>
-  </div>
-  <div class="columns">
-    <label>Name</label> 
-    <div class="control">
-      <input class="input" type="text" placeholder="Text input">
-    </div>
-    <label>Name</label>
-    <div class="control">
-      <input class="input" type="text" placeholder="Text input">
-    </div>
-  </div>
 
+    <div class="columns">
+      <div class="column is-6">
+
+          <div class="control">
+            <label>Name</label>
+            <input class="input is-medium" type="text" placeholder="Your name">
+          </div>
+          <div class="control">
+            <label>Company</label>
+            <input class="input is-medium" type="text" placeholder="Your company name">
+          </div>
+          <a class="button">Submit</a>
+
+      </div>
+      <div class="column is-6">
+
+          <div class="control">
+            <label>Email</label>
+            <input class="input is-medium" type="text" placeholder="Your email">
+          </div>
+          <div class="control">
+          <label>Message</label>
+            <textarea class="input is-medium" type="textarea" placeholder="Your message"></textarea>
+          </div>
+
+      </div>
+      
+    </div>
+
+  </div>
+</div>
+</div>
   
   </div>
     <script src="../js/bulma.js"></script>

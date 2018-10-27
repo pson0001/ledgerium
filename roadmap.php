@@ -18,7 +18,7 @@
     <title>Ledgerium || Roadmap</title>
     <?php include('templates/head.php'); ?> 
   </head>
-  <body class="about-us">
+  <body class="roadmap">
 
   <!-- .hero-head -->
   <section class="hero is-fullheight is-large">

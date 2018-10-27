@@ -20,13 +20,13 @@
       <a href="roadmap.php" class="navbar-item">
         Roadmap
       </a>
-      <a class="navbar-item">
+      <a href="partners.php" class="navbar-item">
         Partners
       </a>
-      <a class="navbar-item">
+      <a href="insights.php" class="navbar-item">
           Insights
       </a>
-      <a class="navbar-item">
+      <a href="contact-us.php" class="navbar-item">
         Contact us
       </a>
     </div>
