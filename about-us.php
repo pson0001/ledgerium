@@ -346,7 +346,7 @@
 
   </div>
   
-
+  <section class="section is-small"></section>
 
 </div>
 

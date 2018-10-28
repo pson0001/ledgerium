@@ -3,7 +3,6 @@ body {
     font-family: $font__type--default;
     color: $color__brand-blue;
 
-
     @include tablet {
         //background: rosybrown;
     }
@@ -12,17 +11,17 @@ body {
         color: $color__brand-dark-blue;
         padding-bottom: 5px;
         text-transform: uppercase;
-    
+
         @include typography--font(22px, 'roboto', $font__weight--regular, 21px);
 
         @include tablet {
             @include typography--font(30px, 'roboto', $font__weight--regular, 29px);
         }
     }
-    
+
     .subtitle {
         color: $color__brand-blue;
-    
+
         @include typography--font(22px, 'roboto', $font__weight--light, 24px);
     }
     p {
@@ -32,8 +31,6 @@ body {
     .container {
         padding: $column-gap;
 
-
-        
         .columns {
             display: block;
 
@@ -56,7 +53,6 @@ body {
     }
 }
 
-
 // Navegation
 .navbar {
     background: $color__brand-blue;
@@ -64,22 +60,22 @@ body {
 .navbar-menu {
     @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
 
+    color: $color__white;
     height: 90px;
     letter-spacing: 3.2px;
     text-transform: uppercase;
-    color: $color__white;
 
     a {
-        color:$color__white;
+        color: $color__white;
         &:hover {
             background: $color__brand-blue;
             color: $color__brand-soft-brown;
         }
-    }  
+    }
 }
 .navbar-brand {
-    a,
-    &:hover {
+    &:hover,
+    a {
         background: $color__brand-blue;
     }
     .navbar-item {
@@ -101,8 +97,8 @@ body {
     padding-right: $column-gap * 2;
 }
 
-.navbar-item.has-dropdown:hover .navbar-link,
-.navbar-item.has-dropdown.is-active .navbar-link {
+.navbar-item.has-dropdown.is-active .navbar-link,
+.navbar-item.has-dropdown:hover .navbar-link {
     background: $color__brand-blue;
     &:hover {
         background: $color__brand-blue;
@@ -129,7 +125,7 @@ body {
 
 //Hero 
 .hero {
-    background: url(../images/city-ledgerium.png) center / cover $color__black;
+    background: $color__brand-blue;
     overflow: hidden;
 
     .navbar {
@@ -147,20 +143,20 @@ body {
             @include tablet {
                 @include typography--font(46px, 'roboto', $font__weight--light, 60px);
             }
-        } 
-        
+        }
+
     }
     .tile {
         a {
             color: $color__brand-soft-brown;
             &:hover {
                 color: $color__brand-brown;
-            } 
+            }
         }
     }
     .down-arrow {
-        position: relative;
         bottom: $column-gap * 8;
+        position: relative;
 
         @include tablet {
             bottom: $column-gap * 16;
@@ -171,7 +167,7 @@ body {
 // Titles
 .section {
     @include mobile {
-        padding: 1.5rem 1.5rem;
+        padding: 1.5rem;
     }
 }
 
@@ -183,13 +179,12 @@ body {
     @include typography--font(24px, 'roboto', $font__weight--bold, 32px);
 }
 
-
 // Tabs 
 
 .tabs {
     color: $color__brand-dark-blue;
     font-size: 20px;
-	letter-spacing: 3px;
+    letter-spacing: 3px;
     text-transform: uppercase;
 
     @include typography--font(20px, 'roboto', $font__weight--bold, 26px);
@@ -215,11 +210,11 @@ body {
     }
 
     h4 {
+        color: $color__brand-soft-brown;
         height: 20px;
         letter-spacing: 3.2px;
-        text-transform: uppercase;
-        color: $color__brand-soft-brown;
         margin-bottom: $column-gap * 4;
+        text-transform: uppercase;
 
         @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
     }
@@ -227,35 +222,34 @@ body {
 
 // Pages
 .text-container {
-    position: relative;
-    width: 100%;
     display: block;
     height: 100%;
+    position: relative;
+    width: 100%;
 }
 .super-big {
+    bottom: -98px;
+    color: $color__white;
     height: 160px;
     letter-spacing: -1.67px;
-    text-transform: uppercase;
-    text-align: center;
-    position: relative;
-    bottom:-98px;
     position: absolute;
+    text-align: center;
+    text-transform: uppercase;
     width: 100%;
-    color: $color__white;
-    
+
     @include typography--font(60px, 'roboto', $font__weight--bold, 80px);
 
     @include tablet {
-        bottom:-35px;
+        bottom: -35px;
 
         @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
     }
 }
 .header-title {
     background-color: $color__brand-blue-secondary;
+    color: $color__white;
     height: 150px;
     width: 100%;
-    color: $color__white;
 
     @include tablet {
         height: 250px;
@@ -266,11 +260,11 @@ body {
     position: relative;
 
     a {
-        position: absolute;
-        z-index: 1;
-        right: $column-gap;
         background: $color__white;
         color: $color__brand-blue;
+        position: absolute;
+        right: $column-gap;
+        z-index: 1;
 
         &:hover {
             color: $color__brand-soft-brown;
@@ -295,10 +289,20 @@ body {
 .fa-linkedin:hover {
     background-color: $color__white;
 }
+// Front-page
+
+.front-page {
+    .hero {
+        background: url("../images/city-ledgerium.png") center / cover $color__brand-blue;
+    }
+}
 
 // About us
 
 .about-us {
+    .hero {
+        background: url("../images/about-us.png") center / cover $color__brand-blue;
+    }
     .is-2.photo-profile {
         font-size: 0.6rem;
     }
@@ -308,15 +312,26 @@ body {
             margin-bottom: 30px;
         }
     }
-} 
+}
+
+// Roadmap
+
+.roadmap {
+    .hero {
+        background: url("../images/roadmap.png") center / cover $color__brand-blue;
+    }
+    .hero-lgum {
+        background: url("../images/team-group.png") center / cover $color__brand-blue;
+    }
+}
 
 // Partners
 .partners {
     .photo-profile {
         a {
+            left: 0;
             position: relative;
             right: 0;
-            left: 0;
         }
     }
 }
@@ -347,32 +362,31 @@ body {
         }
     }
 
-    .timeline-marker{
+    .timeline-marker {
         background: white;
+        border-radius: 50%;
         border: 2px solid;
-        width: 40px;
         height: 40px;
         position: absolute;
-        border-radius: 50%;
+        width: 40px;
     }
 
-
     .timeline-item {
-        display: flex;
+        align-self: flex-end;
         display: -ms-flexbox;
         display: -webkit-flex;
+        display: flex;
         position: relative;
-        align-self: flex-end;
         width: 50%;
         &::before {
             content: "";
             background-color: $color__brand-dark-blue;
             display: block;
-            width: .1em;
             height: 100%;
-            position: absolute;
             left: 0;
+            position: absolute;
             top: 0;
+            width: 0.1em;
         }
         &:last-child::before {
             background: $color__white;
@@ -382,33 +396,33 @@ body {
             align-self: flex-start;
             margin-left: 0;
 
-            .timeline-marker{
-                right: -20px ;
+            .timeline-marker {
+                right: -20px;
             }
 
             .timeline-content {
-                display: flex;
-                flex-direction: column;
                 align-items: flex-end;
+                display: flex;
                 flex-basis: 100%;
+                flex-direction: column;
             }
-            
+
             &::before {
                 right: -0.1em;
-                left: auto; 
+                left: auto;
             }
         }
         &:nth-of-type(2n+1) {
             &::before {
-                content: "";
                 background-color: $color__brand-dark-blue;
+                content: "";
                 display: block;
-                width: .1em;
                 height: 100%;
                 position: absolute;
                 top: 0;
+                width: 0.1em;
             }
-            .timeline-marker{
+            .timeline-marker {
                 left: -20px;
             }
         }
@@ -416,8 +430,38 @@ body {
 }
 
 // Contact
+.contact-us {
+    .hero {
+        background: url("../images/map.png") center / cover $color__brand-blue;
+    }
+    .form {
+        .control {
+            padding: 0.5rem 0;
+        }
+    }
+}
+.button {
+    text-transform: uppercase;
 
-.contact-bg {
-    background: url(../images/city-ledgerium.png) center / cover $color__black;
+    &.is-medium {
+        background-color: $color__brand-brown;
+        border: none;
+        color: $color__white;
+        letter-spacing: 0.2rem;
+        margin: 0.5rem 0 0;
+        padding: 1.5rem 3rem;
+        width: 100%;
+
+        @include typography--font(18px, 'roboto', $font__weight--bold, 19px);
+    }
 }
 
+.subtitle {
+    &.mark {
+        color: $color__brand-soft-brown;
+        margin: 0;
+        text-transform: uppercase;
+
+        @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
+    }
+}
