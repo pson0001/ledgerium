@@ -41,34 +41,46 @@
   <div class="columns is-desktop is-vcentered">
       <!-- .column l -->
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <!-- /.column l --> 
     </div>
@@ -76,34 +88,46 @@
       <div class="columns is-desktop is-vcentered">
       <!-- .column l -->
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <!-- /.column l --> 
     </div>
@@ -115,34 +139,46 @@
   <div class="columns is-desktop is-vcentered">
       <!-- .column l -->
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <!-- /.column l --> 
     </div>
@@ -150,34 +186,46 @@
       <div class="columns is-desktop is-vcentered">
       <!-- .column l -->
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <div class="column is-2 photo-profile">
+      <a href="#">
         <figure class="image is-square">
           <img src="https://bulma.io/images/placeholders/480x480.png">
         </figure>
+      </a>
       </div>
       <!-- /.column l --> 
     </div>

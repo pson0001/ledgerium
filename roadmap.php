@@ -43,35 +43,39 @@
     <h2 class="section-title has-text-centered">Helping businness to use blockchain</h2>
   </section>
 
+<div class="container">
+
   <div class="timeline is-centered">
     <div class="timeline-item">
     <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h2>Morbi cursus gravida</h2>
+        <h2 class="subtitle">Morbi cursus gravida</h2>
         <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h2>Morbi cursus gravida</h2>
+        <h2 class="subtitle">Morbi cursus gravida</h2>
         <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h2>Morbi cursus gravida</h2>
+        <h2 class="subtitle">Morbi cursus gravida</h2>
         <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h2>Morbi cursus gravida</h2>
+        <h2 class="subtitle">Morbi cursus gravida</h2>
         <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales facilisis condimentum eu, accumsan quis mauris.</p>
       </div>
     </div>
+  </div>
+
   </div>
 
 

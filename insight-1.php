@@ -37,9 +37,11 @@
   <!-- /.hero-head -->
 
   <div class="container">
-    <div class="column is-8">
-    <h1>Regulators Are Landing Punches, But There's a Long Crypto Fight Ahead</h1>
-    <p>Michael J. Casey is the chairman of CoinDesk's advisory board and a senior advisor for blockchain research at MIT's Digital Currency Initiative. The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday exclusively to our subscribers.</p>
+    <div classs="columns">
+      <div class="column is-6 is-centered is-offset-3">
+        <h1 class="subtitle">Regulators Are Landing Punches, But There's a Long Crypto Fight Ahead</h1>
+        <p>Michael J. Casey is the chairman of CoinDesk's advisory board and a senior advisor for blockchain research at MIT's Digital Currency Initiative. The following article originally appeared in CoinDesk Weekly, a custom-curated newsletter delivered every Sunday exclusively to our subscribers.</p>
+      </div>
     </div>
 
   </div>

@@ -36,52 +36,70 @@
 <div class="container">
   <div class="columns">
     <div class="column">
+      <a href="insight-1.php">
       <div class="box">
-        <p class="title">Etiam semper diam at erat pulvinar</p>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
         <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
     </div>
+    </a>
   </div>
     <div class="column">
+    <a href="insight-1.php">
       <div class="box">
-          <p class="title">Etiam semper diam at erat pulvinar</p>
-          <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
-      </div>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
+        <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
+    </div>
+    </a>
     </div>
   </div>
 
   <div class="columns">
     <div class="column">
+    <a href="insight-1.php">
       <div class="box">
-        <p class="title">Etiam semper diam at erat pulvinar</p>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
         <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
     </div>
+    </a>
   </div>
     <div class="column">
+    <a href="insight-1.php">
       <div class="box">
-          <p class="title">Etiam semper diam at erat pulvinar</p>
-          <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
-      </div>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
+        <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
+    </div>
+    </a>
     </div>
   </div>
 
     <div class="columns">
     <div class="column">
+    <a href="insight-1.php">
       <div class="box">
-        <p class="title">Etiam semper diam at erat pulvinar</p>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
         <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
     </div>
+    </a>
   </div>
     <div class="column">
+    <a href="insight-1.php">
       <div class="box">
-          <p class="title">Etiam semper diam at erat pulvinar</p>
-          <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
-      </div>
+        <h1 class="title is-size-5">Monday, May 27 · 3 min</h1>
+        <h2 class="title">Etiam semper diam at erat pulvinar</h2>
+        <p class="subtitle">Morbi maximus, leo sit amet vehicula eleifend</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
+    </div>
+    </a>
     </div>
   </div>
 

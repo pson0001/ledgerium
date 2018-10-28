@@ -2,7 +2,60 @@
 body {
     font-family: $font__type--default;
     color: $color__brand-blue;
+
+
+    @include tablet {
+        //background: rosybrown;
+    }
+
+    .title {
+        color: $color__brand-dark-blue;
+        padding-bottom: 5px;
+        text-transform: uppercase;
+    
+        @include typography--font(22px, 'roboto', $font__weight--regular, 21px);
+
+        @include tablet {
+            @include typography--font(30px, 'roboto', $font__weight--regular, 29px);
+        }
+    }
+    
+    .subtitle {
+        color: $color__brand-blue;
+    
+        @include typography--font(22px, 'roboto', $font__weight--light, 24px);
+    }
+    p {
+        @include typography--font(16px, 'roboto', $font__weight--light, 28px);
+    }
+
+    .container {
+        padding: $column-gap;
+
+
+        
+        .columns {
+            display: block;
+
+            @include tablet {
+                display: flex;
+            }
+
+            &.is-vcentered {
+                display: block;
+
+                @include tablet {
+                    display: flex;
+                }
+            }
+        }
+    }
+
+    .box {
+        border-radius: 0;
+    }
 }
+
 
 // Navegation
 .navbar {
@@ -27,12 +80,19 @@ body {
 .navbar-brand {
     a,
     &:hover {
-        background: $color__brand-blue; 
+        background: $color__brand-blue;
     }
     .navbar-item {
         background: $color__brand-blue;
+
+        @include mobile {
+            width: 50%;
+        }
         img {
             max-height: 48px;
+            @include mobile {
+                max-height: 32px;
+            }
         }
     }
 }
@@ -79,8 +139,16 @@ body {
         color: $color__white;
 
         &.title {
-            @include typography--font(46px, 'roboto', $font__weight--light, 60px);
+            color: $color__white;
+            text-transform: inherit;
+
+            @include typography--font(30px, 'roboto', $font__weight--light, 38px);
+
+            @include tablet {
+                @include typography--font(46px, 'roboto', $font__weight--light, 60px);
+            }
         } 
+        
     }
     .tile {
         a {
@@ -92,11 +160,21 @@ body {
     }
     .down-arrow {
         position: relative;
-        bottom: $column-gap * 2;
+        bottom: $column-gap * 8;
+
+        @include tablet {
+            bottom: $column-gap * 16;
+        }
     }
 }
 
 // Titles
+.section {
+    @include mobile {
+        padding: 1.5rem 1.5rem;
+    }
+}
+
 .section-title {
     color: $color__brand-dark-blue;
     letter-spacing: 8.56px;
@@ -160,18 +238,28 @@ body {
     text-transform: uppercase;
     text-align: center;
     position: relative;
-    bottom:-35px;
+    bottom:-98px;
     position: absolute;
     width: 100%;
     color: $color__white;
     
-    @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
+    @include typography--font(60px, 'roboto', $font__weight--bold, 80px);
+
+    @include tablet {
+        bottom:-35px;
+
+        @include typography--font(120px, 'roboto', $font__weight--bold, 160px);
+    }
 }
 .header-title {
     background-color: $color__brand-blue-secondary;
-    height: 250px;
+    height: 150px;
     width: 100%;
     color: $color__white;
+
+    @include tablet {
+        height: 250px;
+    }
 }
 
 .photo-profile {
@@ -181,8 +269,6 @@ body {
         position: absolute;
         z-index: 1;
         right: $column-gap;
-        height: 76px;
-        width: 76px;
         background: $color__white;
         color: $color__brand-blue;
 
@@ -213,10 +299,29 @@ body {
 // About us
 
 .about-us {
-    .down-arrow {
-        bottom: $column-gap * 16;
+    .is-2.photo-profile {
+        font-size: 0.6rem;
+    }
+    .image {
+        &.is-square {
+            padding-top: 100%;
+            margin-bottom: 30px;
+        }
+    }
+} 
+
+// Partners
+.partners {
+    .photo-profile {
+        a {
+            position: relative;
+            right: 0;
+            left: 0;
+        }
     }
 }
+
+// Roadmap
 
 // Timeline
 
@@ -225,17 +330,20 @@ body {
     flex-direction: column;
 
     &.is-centered {
-        width: 50%;
         align-self: flex-end;
         margin: auto;
     }
 
     .timeline-content {
         text-align: center;
-        padding: 1rem 3rem;
+        padding: 1rem;
+
         h2,
         p {
             width: 100%;
+        }
+        @include tablet {
+            padding: 1rem 3rem;
         }
     }
 
@@ -312,3 +420,4 @@ body {
 .contact-bg {
     background: url(../images/city-ledgerium.png) center / cover $color__black;
 }
+

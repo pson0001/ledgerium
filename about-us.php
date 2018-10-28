@@ -53,8 +53,8 @@
       </figure>
     </div>
     <div class="column content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -68,8 +68,8 @@
   <div class="columns is-desktop is-vcentered">
     <!-- .column l -->
     <div class="column content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+    <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -96,8 +96,8 @@
       </figure>
     </div>
     <div class="column content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -119,8 +119,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -136,8 +136,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -153,8 +153,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -172,8 +172,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -189,8 +189,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -206,8 +206,8 @@
       <figure class="image is-square">
         <img src="https://bulma.io/images/placeholders/480x480.png">
       </figure>
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -223,7 +223,7 @@
   <h2 class="section-title has-text-centered">Advisory Board</h2>
 </section>
 
-<div class="columns is-desktop is-vcentered">
+<div class="columns is-desktop">
     <!-- .column l -->
     <div class="column is-2 photo-profile">
       <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
@@ -232,8 +232,8 @@
       </figure>
     </div>
     <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+    <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -251,49 +251,8 @@
       </figure>
     </div>
     <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
-      <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
-      around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
-      prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
-      He also actively contributes and provides consultancy for a lot of crypto projects including Litecoin, Filecoin, ConsenSys, Hyperledger and other projects.
-      He started his career with Verizon and has since worked in both start-ups and enterprises.
-      His previous start-up was involved with mobile strategies for Starbucks App, ZipCar, Billboard and the Nike Run app.</p>
-    </div>
-    <!-- /.column l --> 
-
-  </div>
-
-  <div class="columns is-desktop is-vcentered">
-    <!-- .column l -->
-    <div class="column is-2 photo-profile">
-      <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
-      <figure class="image is-square">
-        <img src="https://bulma.io/images/placeholders/480x480.png">
-      </figure>
-    </div>
-    <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
-      <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
-      around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
-      prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
-      He also actively contributes and provides consultancy for a lot of crypto projects including Litecoin, Filecoin, ConsenSys, Hyperledger and other projects.
-      He started his career with Verizon and has since worked in both start-ups and enterprises.
-      His previous start-up was involved with mobile strategies for Starbucks App, ZipCar, Billboard and the Nike Run app.</p>
-    </div>
-    <!-- /.column l --> 
-
-    <!-- .column l -->
-    <div class="column is-2 photo-profile">
-      <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
-      <figure class="image is-square">
-        <img src="https://bulma.io/images/placeholders/480x480.png">
-      </figure>
-    </div>
-    <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+    <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -305,7 +264,7 @@
 
   </div>
 
-  <div class="columns is-desktop is-vcentered">
+  <div class="columns is-desktop">
     <!-- .column l -->
     <div class="column is-2 photo-profile">
       <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
@@ -314,8 +273,8 @@
       </figure>
     </div>
     <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
@@ -333,8 +292,49 @@
       </figure>
     </div>
     <div class="column is-4 content">
-      <h2>Faisal Medmood</h2>
-      <h3>Chief Technology Officer</h3>
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
+      <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
+      around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
+      prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
+      He also actively contributes and provides consultancy for a lot of crypto projects including Litecoin, Filecoin, ConsenSys, Hyperledger and other projects.
+      He started his career with Verizon and has since worked in both start-ups and enterprises.
+      His previous start-up was involved with mobile strategies for Starbucks App, ZipCar, Billboard and the Nike Run app.</p>
+    </div>
+    <!-- /.column l --> 
+
+  </div>
+
+  <div class="columns is-desktop">
+    <!-- .column l -->
+    <div class="column is-2 photo-profile">
+      <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
+      <figure class="image is-square">
+        <img src="https://bulma.io/images/placeholders/480x480.png">
+      </figure>
+    </div>
+    <div class="column is-4 content">
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
+      <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
+      around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
+      prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
+      He also actively contributes and provides consultancy for a lot of crypto projects including Litecoin, Filecoin, ConsenSys, Hyperledger and other projects.
+      He started his career with Verizon and has since worked in both start-ups and enterprises.
+      His previous start-up was involved with mobile strategies for Starbucks App, ZipCar, Billboard and the Nike Run app.</p>
+    </div>
+    <!-- /.column l --> 
+
+    <!-- .column l -->
+    <div class="column is-2 photo-profile">
+      <a href="" class="social-icon"> <i class="fa fa-linkedin"></i></a>
+      <figure class="image is-square">
+        <img src="https://bulma.io/images/placeholders/480x480.png">
+      </figure>
+    </div>
+    <div class="column is-4 content">
+      <h2 class="title">Faisal Medmood</h2>
+      <h3 class="subtitle">Chief Technology Officer</h3>
       <p>Faisal aka “electo” is also very active in trading communities and provides a lot of technical feedback and education
       around bitcoin and trading in general. Faisal has worked with many of the top 100 fortune companies creating and implementing
       prediction based models based on both machine learning (AI) and trend analysis. He codes in C++, C#, Perl, Python and JavaScript.
