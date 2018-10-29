@@ -102,38 +102,36 @@
             </section>
 
             <!-- .titles -->
-
-            <div class="tile is-ancestor">
+            <div class="container">
+            <div class="tile lgum is-ancestor">
                 <div class="tile is-vertical is-8">
                     <div class="tile">
-                        <div class="tile is-parent is-vertical">
+                        <div class="tile is-parent is-vertical is-4">
                             <article class="tile is-child notification is-primary">
                                 <p class="title">Vertical...</p>
                                 <p class="subtitle">Top tile</p>
-                            </article>
-                            <article class="tile is-child notification is-warning">
-                                <p class="title">...tiles</p>
-                                <p class="subtitle">Bottom tile</p>
                             </article>
                         </div>
                         <div class="tile is-parent">
                             <article class="tile is-child notification is-info">
                                 <p class="title">Middle tile</p>
                                 <p class="subtitle">With an image</p>
-                                <figure class="image is-4by3">
-                                    <img src="https://bulma.io/images/placeholders/640x480.png">
-                                </figure>
                             </article>
                         </div>
                     </div>
-                    <div class="tile is-parent">
-                        <article class="tile is-child notification is-danger">
-                            <p class="title">Wide tile</p>
-                            <p class="subtitle">Aligned with the right tile</p>
-                            <div class="content">
-                                <!-- Content -->
-                            </div>
-                        </article>
+                    <div class="tile">
+                        <div class="tile is-parent is-vertical is-8">
+                            <article class="tile is-child notification is-primary">
+                                <p class="title">Vertical...</p>
+                                <p class="subtitle">Top tile</p>
+                            </article>
+                        </div>
+                        <div class="tile is-parent" is-4>
+                            <article class="tile is-child notification is-info">
+                                <p class="title">Middle tile</p>
+                                <p class="subtitle">With an image</p>
+                            </article>
+                        </div>
                     </div>
                 </div>
                 <div class="tile is-parent">
@@ -148,6 +146,7 @@
                     </article>
                 </div>
             </div>
+</div>
 
             <section class="section is-small">
                 <h2 class="section-title has-text-centered">Who is talking about us?</h2>
@@ -162,11 +161,11 @@
                 <h2 class="section-title has-text-centered">Find out more</h2>
             </section>
 
-            <div class="contact-bg">
+            <div class="contact-footer has-text-white">
                 <div class="container">
 
                     <div class="form">
-                        <h2>Get our pitch pack</h2>
+                        <h2 class="subtitle has-text-centered has-text-white is-size-3">Get our pitch pack</h2>
 
                         <div class="columns">
                             <div class="column is-6">
@@ -179,7 +178,9 @@
                                     <label>Company</label>
                                     <input class="input is-medium" type="text" placeholder="Your company name">
                                 </div>
-                                <a class="button">Submit</a>
+                                <div class="control">
+                                    <a class="button is-medium">Submit</a>
+                                </div>
 
                             </div>
                             <div class="column is-6">
@@ -190,7 +191,13 @@
                                 </div>
                                 <div class="control">
                                     <label>Message</label>
-                                    <textarea class="input is-medium" type="textarea" placeholder="Your message"></textarea>
+                                    <textarea
+                                        class="textarea is-medium"
+                                        type="textarea"
+                                        placeholder="Your message"
+                                        rows="3"
+                                        cols="33"
+                                        maxlength="200"></textarea>
                                 </div>
 
                             </div>
@@ -200,6 +207,32 @@
                     </div>
                 </div>
             </div>
+
+ <div class='carousel carousel-animated carousel-animate-slide' data-size="5">
+  <div class='carousel-container'>
+    <div class='carousel-item is-active'>
+      <figure class="image is-2by1"><img src="assets/images/hayek-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
+    </div>
+    <div class='carousel-item'>
+      <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
+    </div>
+  </div>
+</div>
 
         </div>
         <script src="../js/bulma.js"></script>
