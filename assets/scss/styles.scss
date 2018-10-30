@@ -659,6 +659,21 @@ body {
     }
 }
 
+#tab_container .container_item {
+    display: none;
+    padding: 4rem 0;
+  }
+  
+  #tab_container .container_item.is-active {
+    display: block;
+  }
+
+.tabs {
+    a {
+        padding: $column-gap * 2;
+    }
+}
+
 .bg-blue {
     background: $color__brand-blue;
     color: $color__white;
