@@ -479,7 +479,11 @@ body {
 // Homepage
 .contact-footer {
     background: url("../images/contact-homepage.png") center / cover $color__brand-blue;
-    padding: $column-gap * 8;
+    padding: 15px;
+
+    @include desktop {
+        padding: $column-gap * 8;
+    }
 
     .form {
         .control {
@@ -629,8 +633,53 @@ body {
         padding: 0;
     }
     &.is-child {
-        padding: 6rem 0;
         text-align: center;
-    }
+        padding: 6rem 0;
 
+        @include mobile {
+            padding: 2rem 0;
+        }
+    }
+    h2 {
+        @include typography--font(32px, 'roboto', $font__weight--light, 36px);
+    }
+    .subtitle {
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+
+        @include mobile {
+            top: 0%;
+            -webkit-transform: translateY(0%);
+            -ms-transform: translateY(0%);
+            transform: translateY(0%);
+        }
+    }
+}
+
+.bg-blue {
+    background: $color__brand-blue;
+    color: $color__white;
+}
+
+.bg-brown {
+    background: $color__brand-brown;
+    color: $color__white;
+}
+
+.bg-grey {
+    background: $color__grey--soften;
+    color: $color__black;  
+}
+
+.bg-brown-image {
+    background: url("../images/dude.png") center / cover $color__brand-soft-brown;
+    color: $color__white;
+}
+
+.bg-blue-image {
+    background: url("../images/girl.png") center / cover $color__brand-blue;
+    color: $color__white;
 }

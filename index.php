@@ -103,50 +103,40 @@
 
             <!-- .titles -->
             <div class="container">
-            <div class="tile lgum is-ancestor">
-                <div class="tile is-vertical is-8">
-                    <div class="tile">
-                        <div class="tile is-parent is-vertical is-4">
-                            <article class="tile is-child notification is-primary">
-                                <p class="title">Vertical...</p>
-                                <p class="subtitle">Top tile</p>
-                            </article>
-                        </div>
-                        <div class="tile is-parent">
-                            <article class="tile is-child notification is-info">
-                                <p class="title">Middle tile</p>
-                                <p class="subtitle">With an image</p>
-                            </article>
-                        </div>
-                    </div>
-                    <div class="tile">
-                        <div class="tile is-parent is-vertical is-8">
-                            <article class="tile is-child notification is-primary">
-                                <p class="title">Vertical...</p>
-                                <p class="subtitle">Top tile</p>
-                            </article>
-                        </div>
-                        <div class="tile is-parent" is-4>
-                            <article class="tile is-child notification is-info">
-                                <p class="title">Middle tile</p>
-                                <p class="subtitle">With an image</p>
-                            </article>
-                        </div>
-                    </div>
-                </div>
-                <div class="tile is-parent">
-                    <article class="tile is-child notification is-success">
-                        <div class="content">
-                            <p class="title">Tall tile</p>
-                            <p class="subtitle">With even more content</p>
-                            <div class="content">
-                                <!-- Content -->
+                <div class="tile is-ancestor">
+                    <div class="tile is-vertical is-8">
+                        <div class="tile">
+                            <div class="tile is-parent is-vertical is-4">
+                                <article class="tile is-child notification bg-blue">
+                                    <h2 class="subtitle">Business entities need to be audited</h2>
+                                </article>
+                            </div>
+                            <div class="tile is-parent is-vertical">
+                                <article class="tile is-child notification bg-grey">
+                                    <h2 class="subtitle">Non-commercial subjects need to be audited</h2>
+                                </article>
                             </div>
                         </div>
-                    </article>
+                        <div class="tile">
+                            <div class="tile is-parent is-vertical is-8">
+                                <article class="tile is-child notification bg-brown-image">
+                                    <h2 class="subtitle">Small and medium business need investment</h2>
+                                </article>
+                            </div>
+                            <div class="tile is-parent is-vertical is-4">
+                                <article class="tile is-child notification bg-brown">
+                                    <h2 class="subtitle">Blockchain related business</h2>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tile is-parent is-vertical">
+                        <article class="tile is-child notification bg-blue-image">
+                            <h2 class="subtitle">Small and medium business need investment</h2>
+                        </article>
+                    </div>
                 </div>
             </div>
-</div>
 
             <section class="section is-small">
                 <h2 class="section-title has-text-centered">Who is talking about us?</h2>
@@ -208,31 +198,31 @@
                 </div>
             </div>
 
- <div class='carousel carousel-animated carousel-animate-slide' data-size="5">
-  <div class='carousel-container'>
-    <div class='carousel-item is-active'>
-      <figure class="image is-2by1"><img src="assets/images/hayek-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
-    </div>
-    <div class='carousel-item'>
-      <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
-    </div>
-  </div>
-</div>
+            <div class='carousel carousel-animated carousel-animate-slide' data-size="5">
+                <div class='carousel-container'>
+                    <div class='carousel-item is-active'>
+                        <figure class="image is-2by1"><img src="assets/images/hayek-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
+                    </div>
+                    <div class='carousel-item'>
+                        <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
+                    </div>
+                </div>
+            </div>
 
         </div>
         <script src="../js/bulma.js"></script>
