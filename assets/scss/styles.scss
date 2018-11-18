@@ -56,21 +56,35 @@ body {
 // Navegation
 .navbar {
     background: $color__brand-blue;
+    text-align: center;
+    @include desktop {
+        text-align: left;
+    }
 }
 .navbar-menu {
     @include typography--font(14px, 'roboto', $font__weight--bold, 19px);
 
+    height: auto;
+    background: $color__brand-blue-secondary;
     color: $color__white;
-    height: 90px;
     letter-spacing: 3.2px;
     text-transform: uppercase;
 
+    @include desktop {
+        height: 90px;
+        background: transparent;
+    }
     a {
         color: $color__white;
         &:hover {
             background: $color__brand-blue;
             color: $color__brand-soft-brown;
         }
+    }
+}
+a {
+    &.navbar-burger {
+        color: $color__white;
     }
 }
 .navbar-brand {
@@ -85,16 +99,20 @@ body {
             width: 50%;
         }
         img {
-            max-height: 48px;
-            @include mobile {
-                max-height: 32px;
+            max-height: 1.75rem;
+            @include desktop {
+                max-height: 42px;
             }
         }
     }
 }
 
 .navbar-start {
-    padding-right: $column-gap * 2;
+    padding-right: 0;
+
+    @include desktop {
+        padding-right: $column-gap * 2;
+    }
 }
 
 .navbar-item.has-dropdown.is-active .navbar-link,
@@ -110,12 +128,21 @@ body {
     }
 }
 .navbar-dropdown {
-    background: $color__brand-blue;
+    background: transparent;
     border: 0;
+    padding: 0;
+    @include desktop {
+        background: $color__brand-blue;
+        padding: 0.5rem 0.5rem 0.8rem;
+    }
 
     a.navbar-item {
+        padding-left: 0;
         background: none;
         color: $color__white;
+        @include desktop {
+            padding: inherit;
+        }
         &:hover {
             background: none;
             color: $color__brand-soft-brown;
@@ -698,3 +725,21 @@ body {
     background: url("../images/girl.png") center / cover $color__brand-blue;
     color: $color__white;
 }
+
+.tabs {
+    margin-bottom: -1px !important;
+  }
+  
+  .tab-content {
+    border: 1px solid #DBDBDB;
+    padding: 30px;
+  }
+  
+  .tab-pane {
+    display: none;
+  }
+  
+  .is-active {
+    display: initial;
+  }
+  

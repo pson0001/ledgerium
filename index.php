@@ -116,6 +116,79 @@
                 </div>
             </div>
         </div>
+        
+
+        <div class="tabs is-boxed">
+  <ul>
+    <li class="is-active">
+      <a id="1">
+        <span class="icon is-small"><i class="fa fa-image"></i></span>
+        <span>Pictures</span>
+      </a>
+    </li>
+    <li>
+      <a id="2">
+        <span class="icon is-small"><i class="fa fa-music"></i></span>
+        <span>Music</span>
+      </a>
+    </li>
+    <li>
+      <a id="3">
+        <span class="icon is-small"><i class="fa fa-film"></i></span>
+        <span>Videos</span>
+      </a>
+    </li>
+    <li>
+      <a id="4">
+        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
+        <span>Documents</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="tab-content">
+  <div class="tab-pane is-active" id="1">Picture content</div>
+  <div class="tab-pane" id="2">Music content</div>
+  <div class="tab-pane" id="3">Videos content</div>
+  <div class="tab-pane" id="4">Documents content</div>
+</div>
+<br><br>
+<div class="tabs is-boxed">
+  <ul>
+    <li class="is-active">
+      <a id="1">
+        <span class="icon is-small"><i class="fa fa-image"></i></span>
+        <span>Pictures</span>
+      </a>
+    </li>
+    <li>
+      <a id="2">
+        <span class="icon is-small"><i class="fa fa-music"></i></span>
+        <span>Music</span>
+      </a>
+    </li>
+    <li>
+      <a id="3">
+        <span class="icon is-small"><i class="fa fa-film"></i></span>
+        <span>Videos</span>
+      </a>
+    </li>
+    <li>
+      <a id="4">
+        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
+        <span>Documents</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<div class="tab-content">
+  <div class="tab-pane is-active" id="1">Picture content</div>
+  <div class="tab-pane" id="2">Music content</div>
+  <div class="tab-pane" id="3">Videos content</div>
+  <div class="tab-pane" id="4">Documents content</div>
+</div>
 
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Who needs ledgerium</h2>
