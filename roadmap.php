@@ -17,16 +17,14 @@
         <title>Ledgerium || Roadmap</title>
         <?php include('templates/head.php'); ?>
     </head>
-    <body class="roadmap">
+    <body class="roadmap" >
 
         <!-- .hero-head -->
-        <section class="hero is-fullheight is-large">
+        <section class="hero is-fullheight is-large ">
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
-                    <h1 class="title has-text-centered">Lorem ipsum dolor sit amet, consectetur
-                        adipiscing elit. Donec fermentum commodo diam sit amet vestibulum. Nulla
-                        elementum varius libero a facilisis.</h1>
+                    <h1 class="title has-text-centered">Ledgerium is developed as a decentralized accounting ledger system – Blockchain as a Service (BaaS) which rationalizes debtors and creditors via Smart Contracts, provides reliable Identity and Authorization Control, Real-time Auditing, and Business Internal Control.</h1>
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
@@ -40,7 +38,7 @@
         <!-- /.hero-head -->
 
         <!-- .content -->
-        <section class="section is-small" ">
+        <section class="section is-small">
             <h2 class="section-title has-text-centered">Helping businness to use blockchain</h2>
         </section>
 
@@ -50,43 +48,54 @@
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h2 class="subtitle">Morbi cursus gravida</h2>
-                        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus
-                            tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales
-                            facilisis condimentum eu, accumsan quis mauris.</p>
+                        <h2 class="subtitle">2018 QUARTER 4</h2>
+                        <p>Implement wallet & blockchain look up features.
+                            Complete cross platform frontend for smart contract execution.
+                            Release on ethereum main-net for testing.
+                            Marketing campaign in Asia-pacific region, including the
+                            US, Canada, Australia and China. </p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h2 class="subtitle">Morbi cursus gravida</h2>
-                        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus
-                            tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales
-                            facilisis condimentum eu, accumsan quis mauris.</p>
+                        <h2 class="subtitle">2019 QUARTER 1</h2>
+                        <p>Implementation of Proof of Stake with masternood support.
+                            Implement number of supporting EIPs.
+                            Marketing campaign in Asia-pacific region, including
+                            the US, Japan, South Korea and Singapore.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h2 class="subtitle">Morbi cursus gravida</h2>
-                        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus
-                            tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales
-                            facilisis condimentum eu, accumsan quis mauris.</p>
+                        <h2 class="subtitle">2019 QUARTER 2</h2>
+                        <p>Release IOS and Android application. Main-net going live, token swap.
+                          Implementation of Ledgerium Identity Services.
+                          Marketing campaign in Europe region.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h2 class="subtitle">Morbi cursus gravida</h2>
-                        <p>Morbi cursus gravida sem, vitae sollicitudin est condimentum quis. Vivamus
-                            tempus ex quam, aliquet ultricies augue mattis et. Vivamus elit ipsum, sodales
-                            facilisis condimentum eu, accumsan quis mauris.</p>
+                        <h2 class="subtitle">2019 QUARTER 3</h2>
+                        <p>Full public release of complete platform globally.
+                            Design and implement on further features and
+                            design milestone for next iteration - Internal Control.</p>
                     </div>
                 </div>
             </div>
 
         </div>
-
+        <svg>
+          <filter id="blue-tint" color-interpolation-filters="sRGB">
+            <feColorMatrix type="matrix"
+              values="0.44 0 0 0  0.00
+                      0.47 0 0 0  0.06
+                      0.40 0 0 0  0.2
+                        0  0 0 1  0" />
+          </filter>
+        </svg>
         <section class="section is-small"></section>
 
         <!-- .hero-head -->

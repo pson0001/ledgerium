@@ -33,7 +33,7 @@ body {
 
         .columns {
             display: block;
-
+vertical-align: top;
             @include tablet {
                 display: flex;
             }
@@ -150,7 +150,7 @@ a {
     }
 }
 
-//Hero 
+//Hero
 .hero {
     background: $color__brand-blue;
     overflow: hidden;
@@ -206,7 +206,67 @@ a {
     @include typography--font(24px, 'roboto', $font__weight--bold, 32px);
 }
 
-// Tabs 
+// Tabs
+.info{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.info_container{
+  max-width: 80%;
+  background: #fff;
+}
+
+.content_container{
+
+  display: none;
+  padding: 4rem 0 ;
+  border-top: 1px solid #abc;
+}
+.radio_box{
+  display: none;
+}
+.label_container{
+  display: inline-block;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing:3px;
+}
+label:hover {
+  color: $color__brand-dark-blue;
+  border-bottom: 1px solid $color__brand-dark-blue;
+  cursor: pointer;
+}
+input:checked + label {
+  color:  #3273dc;
+  border-bottom: 1px solid #3273dc;
+}
+
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4 {
+  display: block;
+}
+
+@media screen and (max-width: 1400px) {
+  .label_container {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 1330px) {
+  .label_container {
+    padding: 15px 15px;
+  }
+}
+@media screen and (max-width: 1230px) {
+  .label_container {
+    padding: 15px 5px;
+  }
+}
 
 .tabs {
     color: $color__brand-dark-blue;
@@ -341,14 +401,45 @@ a {
     }
 }
 
+.individualphoto{
+  height: auto;
+  object-fit: cover;
+}
+
+
+#individualphoto{
+  filter: url(#blue-tint);
+}
+
 // Roadmap
 
 .roadmap {
+  .hero::before {
+    content: "";
+    position: absolute;
+    top:0%;
+    left: 0%;
+    height: 100%; width: 100%;
+    background: url("../images/roadmapgroup.jpg") center / cover;
+    filter: url(#blue-tint);
+  }
     .hero {
-        background: url("../images/roadmap.png") center / cover $color__brand-blue;
+      position: relative;
     }
+
+    .hero-lgum::before {
+      content: "";
+      position: absolute;
+      top:0%;
+      left: 0%;
+      height: 100%; width: 100%;
+      background: url("../images/roadmapbottom.jpg") center / cover $color__brand-blue;
+      filter: url(#blue-tint);
+    }
+
     .hero-lgum {
-        background: url("../images/team-group.png") center / cover $color__brand-blue;
+      position: relative;
+
     }
 }
 
@@ -504,8 +595,19 @@ a {
 }
 
 // Homepage
+
+.contact-footer::before {
+  content: "";
+  position: absolute;
+  top:0%;
+  left: 0%;
+  height: 100%; width: 100%;
+  background: url("../images/bottom.jpg") center / cover ;
+  filter: url(#blue-tint);
+}
+
 .contact-footer {
-    background: url("../images/contact-homepage.png") center / cover $color__brand-blue;
+  position: relative;
     padding: 15px;
 
     @include desktop {
@@ -549,6 +651,29 @@ a {
         transform: rotate(359deg);
     }
 }
+
+.testimonial {
+    position: relative;
+    overflow: hidden;
+    .image {
+        img {
+            height: 100%;
+            margin: auto;
+            display: flex;
+            justify-content: center;
+        }
+    }
+    background-color: #36455C;
+    width: 100%;
+}
+.testimonial .testimonial-container {
+    width: 90%;
+    border: none;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+}
+
 .carousel {
     position: relative;
     overflow: hidden;
@@ -560,6 +685,8 @@ a {
         }
     }
 }
+
+
 .carousel .carousel-container {
     width: 20%;
     position: relative;
@@ -654,6 +781,11 @@ a {
     opacity: 0;
 }
 
+
+
+
+
+
 .tile {
     border-radius: 0;
     &.is-parent {
@@ -686,11 +818,12 @@ a {
     }
 }
 
+
 #tab_container .container_item {
     display: none;
     padding: 4rem 0;
   }
-  
+
   #tab_container .container_item.is-active {
     display: block;
   }
@@ -713,33 +846,43 @@ a {
 
 .bg-grey {
     background: $color__grey--soften;
-    color: $color__black;  
+    color: $color__black;
 }
 
+
 .bg-brown-image {
-    background: url("../images/dude.png") center / cover $color__brand-soft-brown;
+    background: url("../images/small.jpg") center / cover $color__brand-soft-brown;
     color: $color__white;
 }
 
+.bg-blue-image::before {
+  content: "";
+  position: absolute;
+  top:0%;
+  left: 0%;
+  height: 100%; width: 100%;
+  background: url("../images/openinggirl.jpg") center / cover ;
+  filter: url(#blue-tint);
+}
+
 .bg-blue-image {
-    background: url("../images/girl.png") center / cover $color__brand-blue;
+    background: url("../images/openinggirl.jpg") center / cover $color__brand-blue;
     color: $color__white;
 }
 
 .tabs {
     margin-bottom: -1px !important;
   }
-  
+
   .tab-content {
     border: 1px solid #DBDBDB;
     padding: 30px;
   }
-  
+
   .tab-pane {
     display: none;
   }
-  
+
   .is-active {
     display: initial;
   }
-  

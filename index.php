@@ -48,7 +48,152 @@
 
         <!-- -->
 
-        <div class="container">
+
+        <div class="info">
+          <div class="info_container">
+
+            <input class="radio_box" id="tab1" type="radio" name="tabs" checked>
+            <label class="label_container" for="tab1">BLOCKCHAIN TECHNOLOGY</label>
+
+            <input class="radio_box" id="tab2" type="radio" name="tabs">
+            <label class="label_container" for="tab2">MODERN ACCOUNTING</label>
+
+            <input class="radio_box" id="tab3" type="radio" name="tabs">
+            <label class="label_container" for="tab3">CLOUD TECHNOLOGY</label>
+
+            <input class="radio_box" id="tab4" type="radio" name="tabs">
+            <label class="label_container" for="tab4">SECURE</label>
+
+            <section class="content_container" id="content1" >
+              <div class="columns is-vcentered">
+
+                  <div class="colums is-6">
+                      <video
+                          controls="controls"
+                          style="width:640px;height:360px;"
+                          poster="assets/images/poster.png">
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
+                              type='video/webm;codecs="vp8, vorbis"'/>
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
+                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+                      </video>
+
+                  </div>
+                  <div class="column is-offset-1 is-5 content" id="paragraph">
+                  <h2 class="title">Blockchain technology</h2>
+                  <h3 class="subtitle">Ledger systems</h3>
+                  <span>Blockchain with mathematical proof and decentralized databases is a
+                        solution to the above issues. The features of the Blockchain are its game
+                        changing technology.
+                        Any digital form of asset certification, recording, registration, storage,
+                        trading, payment, circulation can be achieved through the Blockchain.
+                        The main advantage of the Blockchain is that it requires no intermediary
+                        participation, the process is efficient and transparent, the cost is low, and the
+                        data is highly secure. </span></div>
+
+              </div>
+            </section>
+
+            <section class="content_container" id="content2">
+              <div class="columns is-vcentered">
+
+                  <div class="colums is-6">
+                      <video
+                          controls="controls"
+                          style="width:640px;height:360px;"
+                          poster="assets/images/poster.png">
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
+                              type='video/webm;codecs="vp8, vorbis"'/>
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
+                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+                      </video>
+
+                  </div>
+                  <div class="column is-offset-1 is-5 content" id="paragraph">
+                  <h2 class="title">MODERN ACCOUNTING</h2>
+                  <h3 class="subtitle">Ledger systems</h3>
+                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
+                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
+                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
+                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
+                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
+                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
+                      magni quibusdam molestiae ut.</span></div>
+
+              </div>
+            </section>
+
+            <section class="content_container" id="content3">
+              <div class="columns is-vcentered">
+
+                  <div class="colums is-6">
+                      <video
+                          controls="controls"
+                          style="width:640px;height:360px;"
+                          poster="assets/images/poster.png">
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
+                              type='video/webm;codecs="vp8, vorbis"'/>
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
+                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+                      </video>
+
+                  </div>
+                  <div class="column is-offset-1 is-5 content" id="paragraph">
+                  <h2 class="title">CLOUD TECHNOLOGY</h2>
+                  <h3 class="subtitle">Ledger systems</h3>
+                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
+                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
+                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
+                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
+                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
+                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
+                      magni quibusdam molestiae ut.</span></div>
+
+              </div>
+            </section>
+
+            <section class="content_container" id="content4">
+              <div class="columns is-vcentered">
+
+                  <div class="colums is-6">
+                      <video
+                          controls="controls"
+                          style="width:640px;height:360px;"
+                          poster="assets/images/poster.png">
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
+                              type='video/webm;codecs="vp8, vorbis"'/>
+                          <source
+                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
+                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+                      </video>
+
+                  </div>
+                  <div class="column is-offset-1 is-5 content" id="paragraph">
+                  <h2 class="title">SECURE</h2>
+                  <h3 class="subtitle">Ledger systems</h3>
+                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
+                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
+                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
+                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
+                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
+                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
+                      magni quibusdam molestiae ut.</span></div>
+
+              </div>
+            </section>
+
+          </div>
+
+        </div>
+
+        <!-- <div class="container">
             <div class="tabs is-centered" id="tab_header">
                 <ul>
                     <li class="item is-active" data-option="1">
@@ -115,9 +260,9 @@
                     corrupti!
                 </div>
             </div>
-        </div>
-        
+        </div> -->
 
+<!--
         <div class="tabs is-boxed">
   <ul>
     <li class="is-active">
@@ -188,7 +333,7 @@
   <div class="tab-pane" id="2">Music content</div>
   <div class="tab-pane" id="3">Videos content</div>
   <div class="tab-pane" id="4">Documents content</div>
-</div>
+</div> -->
 
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Who needs ledgerium</h2>
@@ -225,22 +370,21 @@
                 </div>
                 <div class="tile is-parent is-vertical">
                     <article class="tile is-child notification bg-blue-image">
-                        <h2 class="subtitle">Small and medium business need investment</h2>
+                        <h2 class="subtitle">Audit firms and government authorities</h2>
                     </article>
                 </div>
             </div>
         </div>
+        <svg>
+          <filter id="blue-tint" color-interpolation-filters="sRGB">
+            <feColorMatrix type="matrix"
+              values="0.44 0 0 0  0.00
+                      0.47 0 0 0  0.06
+                      0.40 0 0 0  0.2
+                        0  0 0 1  0" />
+          </filter>
+      </svg>
 
- <!-- to do
-        <section class="section is-small">
-            <h2 class="section-title has-text-centered">Who is talking about us?</h2>
-        </section>
-
-        <div class="quote">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac massa non
-                massa dapibus blandit et non dui.</p>
-        </div>
--->
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Find out more</h2>
         </section>
@@ -292,6 +436,8 @@
             </div>
         </div>
 
+
+
         <div class='carousel carousel-animated carousel-animate-slide' data-size="5">
             <div class='carousel-container'>
                 <div class='carousel-item is-active'>
@@ -317,6 +463,7 @@
                 </div>
             </div>
         </div>
+
 
     </div>
     <?php include('templates/footer.php'); ?>
