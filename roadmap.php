@@ -104,11 +104,13 @@
                 <div class="container">
                     <div class="columns is-desktop is-vcentered">
                         <div class="column is-8">
-                            <h1 class="title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-                                faucibus erat nibh, a hendrerit nibh hendrerit quis. Fusce imperdiet ullamcorper
-                                dolor, at volutpat orci congue quis. Ut pharetra rutrum ex non rhoncus. Donec at
-                                elit a nunc molestie ultricies id ut metus. Praesent tincidunt varius nisl quis
-                                gravida. Nulla eu magna id enim tempus pharetra.</h1>
+                            <h1 class="title">Ledgerium is the company that shall bring Blockchain to the accounting
+and audit industry. We aim to create a decentralized ledger through a triple
+entry accounting system and revolutionise the traditional audit procedure.
+We believe in the trust mechanism of Blockchain that will allow small and
+medium businesses to access auditing and other high-level accounting services
+previously only available to large companies, allowing a fairer, more transparent
+business world to flourish.</h1>
                         </div>
                         <div class="column is-3 is-offset-1">
                             <figure class="image is-square">

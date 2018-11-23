@@ -405,7 +405,9 @@ input:checked + label {
   height: auto;
   object-fit: cover;
 }
-
+.intro-para{
+  font-size: 14px;
+}
 
 #individualphoto{
   filter: url(#blue-tint);
