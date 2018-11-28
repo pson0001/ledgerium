@@ -290,6 +290,13 @@ input:checked + label {
         }
     }
 
+    .static-link {
+        color: $color__white;
+        &:hover {
+            color: $color__brand-brown;
+        }
+    }
+
     .twitter-feed {
         p {
             margin-bottom: $column-gap * 2;
