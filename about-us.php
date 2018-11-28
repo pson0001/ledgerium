@@ -126,7 +126,7 @@
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
-                        <img src="assets/images/kellson.jpg">
+                        <img src="assets/images/Kellson.jpg">
                     </figure>
                     <h2 class="title">KELLSON MA</h2>
                     <h3 class="subtitle">Chief Information Officer</h3>
