@@ -28,10 +28,10 @@
                         <h1 class="title">
                             The Advanced Accounting Ledger on the Blockchain</h1>
                         <div>
-                            <a href="#">Read the whitepaper →</a>
+                            <a target="_blank" href="https://www.ledgerium.net/files/Ledgerium_Whitepaper.pdf">Read the whitepaper →</a>
                         </div>
                         <div>
-                            <a href="#">LGUM Token →</a>
+                            <a target="_blank" href="https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9">LGUM Token →</a>
                         </div>
                     </div>
                 </div>
@@ -68,18 +68,7 @@
               <div class="columns is-vcentered">
 
                   <div class="colums is-6">
-                      <video
-                          controls="controls"
-                          style="width:640px;height:360px;"
-                          poster="assets/images/poster.png">
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                              type='video/webm;codecs="vp8, vorbis"'/>
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                      </video>
-
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">Blockchain technology</h2>
@@ -100,18 +89,7 @@
               <div class="columns is-vcentered">
 
                   <div class="colums is-6">
-                      <video
-                          controls="controls"
-                          style="width:640px;height:360px;"
-                          poster="assets/images/poster.png">
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                              type='video/webm;codecs="vp8, vorbis"'/>
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                      </video>
-
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">MODERN ACCOUNTING</h2>
@@ -131,18 +109,7 @@
               <div class="columns is-vcentered">
 
                   <div class="colums is-6">
-                      <video
-                          controls="controls"
-                          style="width:640px;height:360px;"
-                          poster="assets/images/poster.png">
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                              type='video/webm;codecs="vp8, vorbis"'/>
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                      </video>
-
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">CLOUD TECHNOLOGY</h2>
@@ -162,18 +129,7 @@
               <div class="columns is-vcentered">
 
                   <div class="colums is-6">
-                      <video
-                          controls="controls"
-                          style="width:640px;height:360px;"
-                          poster="assets/images/poster.png">
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                              type='video/webm;codecs="vp8, vorbis"'/>
-                          <source
-                              src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                              type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                      </video>
-
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">SECURE</h2>
@@ -192,148 +148,6 @@
           </div>
 
         </div>
-
-        <!-- <div class="container">
-            <div class="tabs is-centered" id="tab_header">
-                <ul>
-                    <li class="item is-active" data-option="1">
-                        <a>Blockchain technology</a>
-                    </li>
-                    <li class="item" data-option="2">
-                        <a>Modern Accounting</a>
-                    </li>
-                    <li class="item" data-option="3">
-                        <a>Cloud technology</a>
-                    </li>
-                    <li class="item" data-option="3">
-                        <a>Secure</a>
-                    </li>
-                </ul>
-            </div>
-            <div id="tab_container">
-                <div class="container_item is-active" data-item="1">
-                    <div class="columns is-vcentered">
-
-                        <div class="colums is-6">
-                            <video
-                                controls="controls"
-                                style="width:640px;height:360px;"
-                                poster="assets/images/poster.png">
-                                <source
-                                    src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                                    type='video/webm;codecs="vp8, vorbis"'/>
-                                <source
-                                    src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                                    type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                            </video>
-
-                        </div>
-                        <div class="column is-offset-1 is-5 content">
-                        <h2 class="title">Blockchain technology</h2>
-                        <h3 class="subtitle">Ledger systems</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                            vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                            amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                            doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                            repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                            magni quibusdam molestiae ut.</div>
-
-                    </div>
-
-                </div>
-                <div class="container_item" data-item="2">
-                    Nobis quibusdam veritatis voluptatum, quasi. Unde eaque reprehenderit expedita
-                    at earum, accusantium laudantium vitae minima, veritatis in dolorem, illo itaque
-                    nihil cum iusto tenetur saepe repellendus nam eum culpa magnam quae! Nam,
-                    deleniti? Hic quibusdam sed perferendis quasi mollitia! Obcaecati recusandae
-                    fugiat itaque nihil vel, mollitia modi, repellat, voluptatibus, repellendus
-                    nostrum nisi veritatis. Odit magnam quia magni quibusdam molestiae ut.
-                </div>
-                <div class="container_item" data-item="3">
-                    Beatae neque magni recusandae tempore ad nobis magnam. Explicabo, a! Molestiae
-                    aperiam necessitatibus suscipit mollitia dolorum quas possimus ipsa, nemo quod
-                    ipsam veniam, incidunt maxime quos iusto reiciendis. Eligendi cupiditate
-                    asperiores fuga dolore. Reiciendis eligendi eaque autem, aperiam delectus
-                    nesciunt enim similique ut laborum blanditiis tempora quidem, nobis unde
-                    incidunt alias atque dignissimos recusandae quibusdam cum dolor voluptas
-                    corrupti!
-                </div>
-            </div>
-        </div> -->
-
-<!--
-        <div class="tabs is-boxed">
-  <ul>
-    <li class="is-active">
-      <a id="1">
-        <span class="icon is-small"><i class="fa fa-image"></i></span>
-        <span>Pictures</span>
-      </a>
-    </li>
-    <li>
-      <a id="2">
-        <span class="icon is-small"><i class="fa fa-music"></i></span>
-        <span>Music</span>
-      </a>
-    </li>
-    <li>
-      <a id="3">
-        <span class="icon is-small"><i class="fa fa-film"></i></span>
-        <span>Videos</span>
-      </a>
-    </li>
-    <li>
-      <a id="4">
-        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
-        <span>Documents</span>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<div class="tab-content">
-  <div class="tab-pane is-active" id="1">Picture content</div>
-  <div class="tab-pane" id="2">Music content</div>
-  <div class="tab-pane" id="3">Videos content</div>
-  <div class="tab-pane" id="4">Documents content</div>
-</div>
-<br><br>
-<div class="tabs is-boxed">
-  <ul>
-    <li class="is-active">
-      <a id="1">
-        <span class="icon is-small"><i class="fa fa-image"></i></span>
-        <span>Pictures</span>
-      </a>
-    </li>
-    <li>
-      <a id="2">
-        <span class="icon is-small"><i class="fa fa-music"></i></span>
-        <span>Music</span>
-      </a>
-    </li>
-    <li>
-      <a id="3">
-        <span class="icon is-small"><i class="fa fa-film"></i></span>
-        <span>Videos</span>
-      </a>
-    </li>
-    <li>
-      <a id="4">
-        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
-        <span>Documents</span>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<div class="tab-content">
-  <div class="tab-pane is-active" id="1">Picture content</div>
-  <div class="tab-pane" id="2">Music content</div>
-  <div class="tab-pane" id="3">Videos content</div>
-  <div class="tab-pane" id="4">Documents content</div>
-</div> -->
 
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Who needs ledgerium</h2>
@@ -390,12 +204,18 @@
         </section>
 
         <div class="contact-footer has-text-white">
-            <div class="container">
-
+            <div class="container" style="height:300px;">
+            <script type="text/javascript">
+                $(document).ready(function()
+                {
+                    $('#contactform').load('https://www.ledgerium.net/ledgerium/ .wpcf7-form');
+                })
+            </script>
                 <div class="form">
                     <h2 class="subtitle has-text-centered has-text-white is-size-3">Get our pitch pack</h2>
 
-                    <div class="columns">
+                    <div id="contactform"></div>
+                    <!--<div class="columns">
                         <div class="column is-6">
 
                             <div class="control">
@@ -431,7 +251,7 @@
                         </div>
 
                     </div>
-
+                    -->
                 </div>
             </div>
         </div>

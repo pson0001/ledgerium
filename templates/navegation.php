@@ -23,9 +23,9 @@
       <a href="partners.php" class="navbar-item">
         Partners
       </a>
-      <a href="insights.php" class="navbar-item">
+      <!--<a href="insights.php" class="navbar-item">
           Insights
-      </a>
+      </a>-->
       <a href="contact-us.php" class="navbar-item">
         Contact us
       </a>
@@ -34,11 +34,11 @@
             <a class="navbar-link">
                 ENG
             </a>
-        <div class="navbar-dropdown">
+        <!--<div class="navbar-dropdown">
           <a class="navbar-item">
             CHI
           </a>
-        </div>
+        </div>-->
     </div>
   </div>
 </nav>

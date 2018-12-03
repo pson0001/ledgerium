@@ -34,9 +34,15 @@
         <section class="hero is-fullheight has-text-white is-large">
             <div class="hero-body">
                 <div class="container">
+                <script type="text/javascript">
+                $(document).ready(function()
+                {
+                    $('#contactform').load('https://www.ledgerium.net/ledgerium/ .wpcf7-form');
+                })
+                </script>
                     <div class="form">
-
-                        <div class="columns">
+                        <div id="contactform"></div>
+                        <!--<div class="columns">
                             <div class="column is-6">
 
                                 <div class="control">
@@ -73,6 +79,7 @@
 
                         </div>
 
+                        -->
                         <div class="columns">
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Address</h3>
@@ -80,14 +87,13 @@
                             </div>
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Email</h3>
-                                <p>info@ledgerium.net</p>
+                                <p><a style="color:#fff" href="mailto:info@ledgerium.net">info@ledgerium.net</a></p>
                             </div>
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Phone</h3>
                                 <p>03 9005 5308</p>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </section>
