@@ -260,8 +260,7 @@ various positions in Cisco, Intel & Philips. </p>
                 <div class="column is-4 content">
                     <h2 class="title"> IVAN CHEAH</h2>
                     <h3 class="subtitle">Advisor</h3>
-                    <p class="intro-para"> IVAN CHEAH
-                      IVAN CHEAH</p>
+                    <p class="intro-para"> IVAN CHEAH</p>
                 </div>
                 <!-- /.column l -->
 
