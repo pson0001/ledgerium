@@ -48,7 +48,7 @@
             <div class="columns is-desktop is-vcentered">
                 <!-- .column l -->
                 <div class="column is-two-fifths photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/adam-wang-0a218819/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square" >
@@ -81,7 +81,7 @@
                 </div>
 
                 <div class="column is-two-fifths photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/faisalmehmood10/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -94,7 +94,7 @@
             <div class="columns is-desktop is-vcentered">
                 <!-- .column l -->
                 <div class="column is-two-fifths photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/ray-wang-0993b63b/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -122,7 +122,7 @@
             <div class="columns is-desktop">
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/kellson/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -144,7 +144,7 @@
 
                 <!-- .column l -->
                 <div class="column is-4 photo-profile" id="individual-container">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/ashwathps/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -161,7 +161,7 @@ various positions in Cisco, Intel & Philips. </p>
 
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/eutese-barnes-04212755/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -187,7 +187,7 @@ various positions in Cisco, Intel & Philips. </p>
             <div class="columns is-desktop">
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/rahulgolash/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
@@ -230,11 +230,11 @@ various positions in Cisco, Intel & Philips. </p>
             <div class="columns is-desktop">
                 <!-- .column l -->
                 <div class="column is-2 photo-profile">
-                    <a href="" class="social-icon">
+                    <a href="https://www.linkedin.com/in/leonard-huang-a1350b69/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
-                        <img src="https://bulma.io/images/placeholders/480x480.png">
+                        <img src="assets/images/Leo.jpg">
                     </figure>
                 </div>
                 <div class="column is-4 content">
