@@ -31,109 +31,11 @@
         <!-- /.hero-head -->
 
         <!-- .content -->
-        <section class="section is-small">
+        <!--<section class="section is-small">
             <h2 class="section-title has-text-centered">Investors</h2>
-        </section>
+        </section>-->
 
         <div class="container">
-
-            <div class="columns is-desktop is-vcentered">
-                <!-- .column l -->
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/collinstar.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/horman.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/hayek.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/async.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/winvestor.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/inp.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <!-- /.column l -->
-            </div>
-
-            <div class="columns is-desktop is-vcentered">
-                <!-- .column l -->
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/fintechau.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/adca.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/blockchainau.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/fintechreview.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/issuewire.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="#">
-                        <figure class="image">
-                            <img src="assets/images/c.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <!-- /.column l -->
-            </div>
-
-            <section class="section is-small">
-                <h2 class="section-title has-text-centered">Testing</h2>
-            </section>
 
             <div class="columns is-desktop is-vcentered">
                 <!-- .column l -->

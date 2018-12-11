@@ -18,7 +18,7 @@
         <!--<p><a href="insights.php" class="static-link">Insights</a></p>-->
         <p><a target="_blank" href="https://www.ledgerium.net/files/Ledgerium_Whitepaper.pdf" class="static-link">Whitepaper</a></p>
         <p><a target="_blank" href="https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9" class="static-link">Token</a></p>
-        <p><a href="contact-us" class="static-link">Contact us</a></p>
+        <p><a href="contact-us.php" class="static-link">Contact us</a></p>
       </div>
       <div class="column is-2">
       <h4>Products</h4>
