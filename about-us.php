@@ -161,6 +161,21 @@ various positions in Cisco, Intel & Philips. </p>
 
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
+                    <a target="_blank" href="https://www.linkedin.com/in/rahulgolash/" class="social-icon">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <figure class="image is-square">
+                      <img src="assets/images/Rahul.jpg">
+                    </figure>
+                    <h2 class="title">RAHUL GOLASH</h2>
+                    <h3 class="subtitle">Blockchain Architect</h3>
+                    <p class="intro-para">Rahul is a blockchain practitioner brings 17 years in software industry experience, specialized in driving product strategy, development, maintenance & support and management of small to large sized, scalable, high volume transactional, distributed software systems in Financial Security-Mutual Fund domain, System Management and Healthcare domain.</p>
+                </div>
+                <!-- /.column l -->
+            </div>
+            <div class="columns is-desktop">
+                <!-- .column l -->
+                <!--<div class="column is-4 photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/eutese-barnes-04212755/" class="social-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
@@ -180,45 +195,8 @@ various positions in Cisco, Intel & Philips. </p>
                       company’s. The theory places emphasis on customer sales, in-house
                       prototyping, crunching the numbers and lastly having 5 marketing
                       sales channels.</p>
-                </div>
+                </div>-->
                 <!-- /.column l -->
-
-            </div>
-            <div class="columns is-desktop">
-                <!-- .column l -->
-                <div class="column is-4 photo-profile">
-                    <a target="_blank" href="https://www.linkedin.com/in/rahulgolash/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
-                    </a>
-                    <figure class="image is-square">
-                      <img src="assets/images/Rahul.jpg">
-                    </figure>
-                    <h2 class="title">RAHUL GOLASH</h2>
-                    <h3 class="subtitle">Blockchain Architect</h3>
-                    <p class="intro-para">Rahul is a blockchain practitioner brings 17 years in software industry experience, specialized in driving product strategy, development, maintenance & support and management of small to large sized, scalable, high volume transactional, distributed software systems in Financial Security-Mutual Fund domain, System Management and Healthcare domain.</p>
-                </div>
-                <!-- /.column l -->
-
-                <!-- .column l -->
-                <!-- /.column l -->
-
-                <!-- .column l -->
-                <!-- <div class="column is-4 photo-profile">
-                    <a href="" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
-                    </a>
-                    <figure class="image is-square">
-                        <img src="https://bulma.io/images/placeholders/480x480.png">
-                    </figure>
-                    <h2 class="title">DR. BLAINE WANG</h2>
-                    <h3 class="subtitle">Researcher</h3>
-                    <p>Blaine has a Bachelor’s Degree in Economics and a PhD in Computer Science.
-                      He is an experienced senior IT executive with experience in telecommunications,
-                       banking and finance.</p>
-                </div> -->
-                <!-- /.column l -->
-
-
             </div>
 
 
@@ -260,10 +238,14 @@ various positions in Cisco, Intel & Philips. </p>
                 <div class="column is-4 content">
                     <h2 class="title"> IVAN CHEAH</h2>
                     <h3 class="subtitle">Advisor</h3>
-                    <p class="intro-para"> IVAN CHEAH</p>
+                    <p class="intro-para">Ivan is a business executive with over 15 years of experience and a
+                        background in marketing and finance. He has held senior roles in
+                        the telecommunications, strategy consulting and automotive industry.
+                        Prior to marketing and finance, he worked as an engineer in the
+                        automotive industry, with roles in Australia, Korea and Germany. He
+                        also holds an MBA and a Bachelor of Aerospace Engineering. </p>
                 </div>
                 <!-- /.column l -->
-
             </div>
 
             <svg>

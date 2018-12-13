@@ -27,12 +27,6 @@
                     <div class="tile is-5 is-vertical">
                         <h1 class="title">
                             The Advanced Accounting Ledger on the Blockchain</h1>
-                        <div>
-                            <a target="_blank" href="https://www.ledgerium.net/files/Ledgerium_Whitepaper.pdf">Read the whitepaper →</a>
-                        </div>
-                        <div>
-                            <a target="_blank" href="https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9">LGUM Token →</a>
-                        </div>
                     </div>
                 </div>
             </div>

@@ -23,9 +23,9 @@
       <a href="partners.php" class="navbar-item">
         Partners
       </a>
-      <!--<a href="insights.php" class="navbar-item">
-          Insights
-      </a>-->
+      <a href="https://www.ledgerium.net/files/Ledgerium_Information_Memorandum.pdf" target="_blank" class="navbar-item">
+          Whitepaper/IM
+      </a>
       <a href="contact-us.php" class="navbar-item">
         Contact us
       </a>
