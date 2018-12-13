@@ -88,13 +88,14 @@
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">MODERN ACCOUNTING</h2>
                   <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <span>Blockchain with mathematical proof and decentralized databases is a
+                        solution to the above issues. The features of the Blockchain are its game
+                        changing technology.
+                        Any digital form of asset certification, recording, registration, storage,
+                        trading, payment, circulation can be achieved through the Blockchain.
+                        The main advantage of the Blockchain is that it requires no intermediary
+                        participation, the process is efficient and transparent, the cost is low, and the
+                        data is highly secure. </span></div>
 
               </div>
             </section>
@@ -108,13 +109,14 @@
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">CLOUD TECHNOLOGY</h2>
                   <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <span>Blockchain with mathematical proof and decentralized databases is a
+                        solution to the above issues. The features of the Blockchain are its game
+                        changing technology.
+                        Any digital form of asset certification, recording, registration, storage,
+                        trading, payment, circulation can be achieved through the Blockchain.
+                        The main advantage of the Blockchain is that it requires no intermediary
+                        participation, the process is efficient and transparent, the cost is low, and the
+                        data is highly secure. </span></div>
 
               </div>
             </section>
@@ -128,13 +130,14 @@
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">SECURE</h2>
                   <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <span>Blockchain with mathematical proof and decentralized databases is a
+                        solution to the above issues. The features of the Blockchain are its game
+                        changing technology.
+                        Any digital form of asset certification, recording, registration, storage,
+                        trading, payment, circulation can be achieved through the Blockchain.
+                        The main advantage of the Blockchain is that it requires no intermediary
+                        participation, the process is efficient and transparent, the cost is low, and the
+                        data is highly secure. </span></div>
 
               </div>
             </section>
