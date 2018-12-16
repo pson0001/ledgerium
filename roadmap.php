@@ -24,7 +24,7 @@
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
-                    <h1 class="title has-text-centered">Ledgerium is developed as a decentralized accounting ledger system – Blockchain as a Service (BaaS) which rationalizes debtors and creditors via Smart Contracts, provides reliable Identity and Authorization Control, Real-time Auditing, and Business Internal Control.</h1>
+                    <h1 class="title has-text-centered">Build your way with Ledgerium</h1>
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">

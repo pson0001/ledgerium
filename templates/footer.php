@@ -8,7 +8,7 @@
         <p><a href="about-us.php" class="static-link">About us</a></p>
         <p><a href="roadmap.php" class="static-link">Roadmap</a></p>
         <p><a href="partners.php" class="static-link">Partners</a></p>
-        <p><a target="_blank" href="https://www.ledgerium.net/files/Ledgerium_Information_Memorandum.pdf" class="static-link">Whitepaper/IM</a></p>
+        <p><a href="./#moreinfo" class="static-link">Resources</a></p>
         <p><a href="contact-us.php" class="static-link">Contact us</a></p>
       </div>
       <!--<div class="column is-2">
@@ -27,7 +27,7 @@
       <p><a href="https://twitter.com/ledgerium" class="static-link">Twitter</a></p>
       <p><a href="https://weixin.qq.com/r/GykgOAHEi1z0rUVb93wJ" class="static-link">WeChat</a></p>
       <p><a href="https://medium.com/@ledgerium.m" class="static-link">Medium</a></p>
-      <p><a href="https://www.reddit.com/user/Ledgerium" class="static-link">Reddit</a></p>
+      <!--<p><a href="https://www.reddit.com/user/Ledgerium" class="static-link">Reddit</a></p>-->
       </div>
     </div>
   </div>
