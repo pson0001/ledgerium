@@ -20,7 +20,7 @@
     <body class="front-page">
 
         <!-- .hero-head -->
-        <section class="hero is-fullheight is-large">
+        <section class="hero hero-height is-large">
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
@@ -59,10 +59,10 @@
             <label class="label_container" for="tab2">MODERN ACCOUNTING</label>
 
             <input class="radio_box" id="tab3" type="radio" name="tabs">
-            <label class="label_container" for="tab3">CLOUD TECHNOLOGY</label>
+            <label class="label_container" for="tab3">AUDITING SYSTEM</label>
 
             <input class="radio_box" id="tab4" type="radio" name="tabs">
-            <label class="label_container" for="tab4">SECURE</label>
+            <label class="label_container" for="tab4">You</label>
 
             <section class="content_container" id="content1" >
               <div class="columns is-vcentered">
@@ -84,15 +84,11 @@
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">Blockchain technology</h2>
                   <h3 class="subtitle">Ledger systems</h3>
-                  <span>Blockchain with mathematical proof and decentralized databases is a
-                        solution to the above issues. The features of the Blockchain are its game
-                        changing technology.
-                        Any digital form of asset certification, recording, registration, storage,
-                        trading, payment, circulation can be achieved through the Blockchain.
-                        The main advantage of the Blockchain is that it requires no intermediary
-                        participation, the process is efficient and transparent, the cost is low, and the
-                        data is highly secure. </span></div>
-
+                  <span>Blockchain can be designed as a decentralized accounting ledger that helps
+                    eliminate error, provides reliable Identity and Authorization Control and ultimately
+                    rationalizes debtors and creditors via Smart Contracts. Since Blockchain doesn’t
+                    require any intermediary participation, the process gets more efficient with
+                    lower costs, secure data and better trust protocols.  </span></div>
               </div>
             </section>
 
@@ -115,14 +111,12 @@
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <h2 class="title">MODERN ACCOUNTING</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <span>Look beyond traditional accounting and bestow utmost transparency to your
+                    enterprise processes. Ledgerium’s accounting platform unlatches the trust
+                    mechanism of Blockchain thereby enabling businesses of all scales access high
+                    quality financial accounting and auditing services. Moreover, it uses a triple
+                    entry system to combat the issues in the current protocols wherein double entries
+                    were manipulated easily.</span></div>
 
               </div>
             </section>
@@ -145,15 +139,13 @@
 
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">CLOUD TECHNOLOGY</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <h2 class="title">AUDITING SYSTEM</h2>
+                  <span>The graving issues in enterprise auditing – manipulating the entries by back
+                    tracing them! This has worsened falsified reporting and ultimately the investors
+                    have lost trust in the mechanism. Ledgerium’s blockchain system use mathematical
+                    proof to audit any digital form of asset certification, recording, registration,
+                    transaction etc, that can’t be changed. This enables the auditors to examine
+                    untouched and transparent data sets as and when required. </span></div>
 
               </div>
             </section>
@@ -176,15 +168,18 @@
 
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">SECURE</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Lorem ipsum dolor sit amet, consectetur adipisicing
-                      elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                      vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                      amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                      doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                      repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                      magni quibusdam molestiae ut.</span></div>
+                  <h2 class="title">You</h2>
+                  <span>We believe in Blockchain that will allow any of your small and medium businesses
+                    to access auditing and other high-level accounting services, so that a better
+                    business world to flourish. Such a risk-free ecosystem where public’s finance
+                    data is highly sustainable will help your enterprise to -</span>
+                    <ul>
+                      <li>Revolutionise traditional accounting</li>
+                      <li>Building a stable credit mechanism</li>
+                      <li>Achieve smarter and accurate auditing</li>
+                      <li>Developing efficient social resource collaborations</li>
+                    </ul>
+                  </div>
 
               </div>
             </section>
@@ -192,148 +187,6 @@
           </div>
 
         </div>
-
-        <!-- <div class="container">
-            <div class="tabs is-centered" id="tab_header">
-                <ul>
-                    <li class="item is-active" data-option="1">
-                        <a>Blockchain technology</a>
-                    </li>
-                    <li class="item" data-option="2">
-                        <a>Modern Accounting</a>
-                    </li>
-                    <li class="item" data-option="3">
-                        <a>Cloud technology</a>
-                    </li>
-                    <li class="item" data-option="3">
-                        <a>Secure</a>
-                    </li>
-                </ul>
-            </div>
-            <div id="tab_container">
-                <div class="container_item is-active" data-item="1">
-                    <div class="columns is-vcentered">
-
-                        <div class="colums is-6">
-                            <video
-                                controls="controls"
-                                style="width:640px;height:360px;"
-                                poster="assets/images/poster.png">
-                                <source
-                                    src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.webm"
-                                    type='video/webm;codecs="vp8, vorbis"'/>
-                                <source
-                                    src="https://www.html5rocks.com/en/tutorials/video/basics/devstories.mp4"
-                                    type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
-                            </video>
-
-                        </div>
-                        <div class="column is-offset-1 is-5 content">
-                        <h2 class="title">Blockchain technology</h2>
-                        <h3 class="subtitle">Ledger systems</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Aliquam perferendis, consequuntur facere molestiae explicabo reprehenderit
-                            vitae. Deleniti neque dolore nobis cum eius nulla porro quos sint delectus sed
-                            amet adipisci quaerat laudantium est distinctio dolor, at repudiandae similique
-                            doloribus rem. Obcaecati recusandae fugiat itaque nihil vel, mollitia modi,
-                            repellat, voluptatibus, repellendus nostrum nisi veritatis. Odit magnam quia
-                            magni quibusdam molestiae ut.</div>
-
-                    </div>
-
-                </div>
-                <div class="container_item" data-item="2">
-                    Nobis quibusdam veritatis voluptatum, quasi. Unde eaque reprehenderit expedita
-                    at earum, accusantium laudantium vitae minima, veritatis in dolorem, illo itaque
-                    nihil cum iusto tenetur saepe repellendus nam eum culpa magnam quae! Nam,
-                    deleniti? Hic quibusdam sed perferendis quasi mollitia! Obcaecati recusandae
-                    fugiat itaque nihil vel, mollitia modi, repellat, voluptatibus, repellendus
-                    nostrum nisi veritatis. Odit magnam quia magni quibusdam molestiae ut.
-                </div>
-                <div class="container_item" data-item="3">
-                    Beatae neque magni recusandae tempore ad nobis magnam. Explicabo, a! Molestiae
-                    aperiam necessitatibus suscipit mollitia dolorum quas possimus ipsa, nemo quod
-                    ipsam veniam, incidunt maxime quos iusto reiciendis. Eligendi cupiditate
-                    asperiores fuga dolore. Reiciendis eligendi eaque autem, aperiam delectus
-                    nesciunt enim similique ut laborum blanditiis tempora quidem, nobis unde
-                    incidunt alias atque dignissimos recusandae quibusdam cum dolor voluptas
-                    corrupti!
-                </div>
-            </div>
-        </div> -->
-
-<!--
-        <div class="tabs is-boxed">
-  <ul>
-    <li class="is-active">
-      <a id="1">
-        <span class="icon is-small"><i class="fa fa-image"></i></span>
-        <span>Pictures</span>
-      </a>
-    </li>
-    <li>
-      <a id="2">
-        <span class="icon is-small"><i class="fa fa-music"></i></span>
-        <span>Music</span>
-      </a>
-    </li>
-    <li>
-      <a id="3">
-        <span class="icon is-small"><i class="fa fa-film"></i></span>
-        <span>Videos</span>
-      </a>
-    </li>
-    <li>
-      <a id="4">
-        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
-        <span>Documents</span>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<div class="tab-content">
-  <div class="tab-pane is-active" id="1">Picture content</div>
-  <div class="tab-pane" id="2">Music content</div>
-  <div class="tab-pane" id="3">Videos content</div>
-  <div class="tab-pane" id="4">Documents content</div>
-</div>
-<br><br>
-<div class="tabs is-boxed">
-  <ul>
-    <li class="is-active">
-      <a id="1">
-        <span class="icon is-small"><i class="fa fa-image"></i></span>
-        <span>Pictures</span>
-      </a>
-    </li>
-    <li>
-      <a id="2">
-        <span class="icon is-small"><i class="fa fa-music"></i></span>
-        <span>Music</span>
-      </a>
-    </li>
-    <li>
-      <a id="3">
-        <span class="icon is-small"><i class="fa fa-film"></i></span>
-        <span>Videos</span>
-      </a>
-    </li>
-    <li>
-      <a id="4">
-        <span class="icon is-small"><i class="fa fa-file-text-o"></i></span>
-        <span>Documents</span>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<div class="tab-content">
-  <div class="tab-pane is-active" id="1">Picture content</div>
-  <div class="tab-pane" id="2">Music content</div>
-  <div class="tab-pane" id="3">Videos content</div>
-  <div class="tab-pane" id="4">Documents content</div>
-</div> -->
 
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Who needs ledgerium</h2>

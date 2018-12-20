@@ -182,13 +182,21 @@ a {
         }
     }
     .down-arrow {
+      margin-top: 50px;
         bottom: $column-gap * 8;
         position: relative;
 
         @include tablet {
             bottom: $column-gap * 16;
         }
+        animation: bounce 1.8s ease-in-out infinite;
     }
+    @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+    40% {transform: translateY(-10px);}
+    60% {transform: translateY(-5px);}
+}
+
 }
 
 // Titles
@@ -387,7 +395,13 @@ input:checked + label {
 
 .front-page {
     .hero {
-        background: url("../images/city-ledgerium.png") center / cover $color__brand-blue;
+      margin-top: 80px;
+        background: url("../images/hero.gif");
+        background-repeat:no-repeat;
+        background-position:center;
+    }
+    .hero-height {
+      height: 80vh;
     }
 }
 

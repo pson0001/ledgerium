@@ -20,7 +20,7 @@
     <body class="roadmap" >
 
         <!-- .hero-head -->
-        <section class="hero is-fullheight is-large ">
+        <section class="hero hero-height is-large ">
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
