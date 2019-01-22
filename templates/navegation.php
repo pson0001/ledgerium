@@ -38,16 +38,16 @@
       </a>
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">
-            Resources
+            Investors
         </a>
         <div class="navbar-dropdown">
           <a class="navbar-item" href="https://www.ledgerium.net/files/Ledgerium_Executive_Summary.pdf" target="_blank">
             Executive Summary
           </a>
           <a class="navbar-item" href="./#moreinfo">
-          Investors Information
+          Pitch Pack
           </a>
-          <a class="navbar-item" href="https://etherscan.io/token/0x84136c48d0ed75c384d0e9b04745f0208561a5b9" target="_blank">Token</a>
+          <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a>
         </div>
       </div>
       <a href="contact-us.php" class="navbar-item">

@@ -26,7 +26,7 @@
                 <div class="container">
                     <div class="tile is-5 is-vertical">
                         <h1 class="title">
-                            The Advanced Accounting Ledger on the Blockchain</h1>
+                            Accounting Ledger on the Blockchain</h1>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
         <!-- /.hero-head -->
 
         <section class="section is-small">
-            <h2 class="section-title has-text-centered">Ledgerium</h2>
+            <h2 class="section-title has-text-centered">What we do</h2>
         </section>
 
         <!-- -->

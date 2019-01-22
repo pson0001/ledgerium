@@ -66,7 +66,7 @@
             <div class="columns is-desktop is-vcentered">
                 <!-- .column l -->
                 <div class="column content">
-                    <h2 class="title">Faisal Medmood</h2>
+                    <h2 class="title">Faisal Mehmood</h2>
                     <h3 class="subtitle">Chief Technology Officer</h3>
                     <p>Faisal aka “electo” is also very active in trading communities and provides a
                         lot of technical feedback and education around bitcoin and trading in general.
