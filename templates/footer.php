@@ -8,7 +8,7 @@
         <p><a href="about-us.php" class="static-link">About us</a></p>
         <p><a href="roadmap.php" class="static-link">Roadmap</a></p>
         <p><a href="partners.php" class="static-link">Partners</a></p>
-        <p><a href="./#moreinfo" class="static-link">Resources</a></p>
+        <p><a href="#" onclick="javascript:scrollToAnchor('moreinfo');" class="static-link">Resources</a></p>
         <p><a href="contact-us.php" class="static-link">Contact us</a></p>
       </div>
       <!--<div class="column is-2">

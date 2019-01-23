@@ -13,6 +13,13 @@
 <script src="assets/js/menu.js"></script>
 <script src="assets/js/tabs.js"></script>
 
+<script type="text/javascript">
+  function scrollToAnchor(aid){
+      var aTag = $("a[name='"+ aid +"']");
+      $('html,body').animate({scrollTop: aTag.offset().top-80},'slow');
+  }
+</script>
+
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112758009-1"></script>
 <script>
@@ -24,7 +31,7 @@
 </script>
 
 <!-- Drift Integration -->
-<script>
+<!--<script>
 "use strict";
 
 !function() {
@@ -50,3 +57,4 @@
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('r43v8n2ve6yn');
 </script>
+-->

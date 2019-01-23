@@ -12015,7 +12015,7 @@ input:checked + label {
 }
 
 .contact-footer .form .input {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-family: "roboto";
   font-size: 18px;
   font-weight: 400;
@@ -12023,7 +12023,7 @@ input:checked + label {
 }
 
 .contact-footer .form .textarea {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-family: "roboto";
   font-size: 18px;
   font-weight: 400;

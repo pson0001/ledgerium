@@ -24,18 +24,23 @@
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
-                    <div class="tile is-5 is-vertical">
+                    <div class="tile is-4 is-vertical">
                         <h1 class="title">
                             Accounting Ledger on the Blockchain</h1>
                     </div>
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
-                <img src="assets/images/down-arrow.svg" width="22" height="22">
+                <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:200px;margin-bottom:60px">Free Trial</a>
+                <br/>
+                <a id="downarrow" href="#" onclick="javascript:scrollToAnchor('whatwedo');">
+                    <img src="assets/images/down-arrow.svg" width="22" height="22">
+                </a>
             </div>
         </section>
         <!-- /.hero-head -->
 
+        <a name="whatwedo">
         <section class="section is-small">
             <h2 class="section-title has-text-centered">What we do</h2>
         </section>
@@ -169,12 +174,17 @@
                         0  0 0 1  0" />
           </filter>
       </svg>
-        <section class="section is-small" id="moreinfo">
+        <a name="moreinfo">
+        <section class="section is-small">
             <h2 class="section-title has-text-centered">Find out more</h2>
         </section>
 
-        <div class="contact-footer has-text-white" style="height:600px;">
-            <div class="container">
+        <div class="contact-footer has-text-white" style="height:700px;">
+            <div class="container has-text-centered">
+            <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Register Free Trial</a>
+            <br/>
+            <h2 class="subtitle has-text-centered has-text-white is-size-3">or</h2>
+            <br/>
             <script type="text/javascript">
                 $(document).ready(function()
                 {

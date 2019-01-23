@@ -628,12 +628,12 @@ input:checked + label {
             padding: 0.5rem 0;
         }
         .input {
-            text-transform: uppercase;
+            //text-transform: uppercase;
 
             @include typography--font(18px, 'roboto', $font__weight--regular, auto);
         }
         .textarea {
-            text-transform: uppercase;
+            //text-transform: uppercase;
 
             @include typography--font(18px, 'roboto', $font__weight--regular, auto);
         }
