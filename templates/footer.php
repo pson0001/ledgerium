@@ -1,33 +1,18 @@
 <footer class="footer ">
   <div class="container">
     <div class="columns">
-      <!--<div class="column is-5 twitter-feed">
-      </div>-->
-      <div class="column is-2">
-        <h4>Navigation</h4>
-        <p><a href="about-us.php" class="static-link">About us</a></p>
-        <p><a href="roadmap.php" class="static-link">Roadmap</a></p>
-        <p><a href="partners.php" class="static-link">Partners</a></p>
-        <p><a href="#" onclick="javascript:scrollToAnchor('moreinfo');" class="static-link">Resources</a></p>
-        <p><a href="contact-us.php" class="static-link">Contact us</a></p>
+      <div class="column is-3">
+        <a itemprop="url" href="https://www.twitter.com/ledgerium" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-twitter  fa-stack-1x"></i><i class="far fa-circle fa-stack-2x" title="Twitter"></i></span></a>
+        <a itemprop="url" href="https://www.linkedin.com/company/ledgerium" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-linkedin-in fa-stack-1x"></i><i class="far fa-circle fa-stack-2x" title="Linkedin"></i></span></a>
+        <a itemprop="url" href="https://www.facebook.com/Ledgerium/" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-facebook  fa-stack-1x"></i><i class="far fa-circle fa-stack-2x" title="Facebook"></i></span></a>
+        <a itemprop="url" href="https://t.me/LedgeriumOfficial" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-telegram  fa-stack-1x" ></i><i class="far fa-circle fa-stack-2x" title="Telegram"></i></span></a>
+        <a itemprop="url" href="https://weixin.qq.com/r/GykgOAHEi1z0rUVb93wJ" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-weixin  fa-stack-1x"></i><i class="far fa-circle fa-stack-2x" title="WeChat"></i></span></a>
+        <a itemprop="url" href="https://medium.com/@ledgerium.m" target="_blank"><span class="fa-stack " style="vertical-align:top"><i class="fab fa-medium fa-stack-1x"></i><i class="far fa-circle fa-stack-2x" title="Medium"></i></span></a>
       </div>
-      <!--<div class="column is-2">
-      <h4>Products</h4>
-
-      <p>Blockchain advisory</p>
-      <p>Blockchain</p>
-      <p>Accountancy</p>
-      <p>Blockchain wallet</p>
-      </div>-->
-      <div class="column is-2">
-      <h4>Social media</h4>
-      <p><a href="https://www.linkedin.com/company/ledgerium" class="static-link">LinkedIn</a></p>
-      <p><a href="https://www.facebook.com/Ledgerium" class="static-link">Facebook</a></p>
-      <p><a href="https://t.me/LedgeriumOfficial" class="static-link">Telegram</a></p>
-      <p><a href="https://twitter.com/ledgerium" class="static-link">Twitter</a></p>
-      <p><a href="https://weixin.qq.com/r/GykgOAHEi1z0rUVb93wJ" class="static-link">WeChat</a></p>
-      <p><a href="https://medium.com/@ledgerium.m" class="static-link">Medium</a></p>
-      <!--<p><a href="https://www.reddit.com/user/Ledgerium" class="static-link">Reddit</a></p>-->
+      <div class="column is-5">
+      </div>
+      <div class="column is-4" style="text-align:right;">
+        © 2019 Ledgerium Pty Ltd.
       </div>
     </div>
   </div>

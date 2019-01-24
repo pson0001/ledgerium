@@ -25,14 +25,17 @@
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
                     <h1 class="title has-text-centered">
-                      Re-imagining enterprise finance with smart accounting ledger on Blockchain
+                      Creating Technology to improve quality of life and work
                     </h1>
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
-                <img src="assets/images/down-arrow.svg" width="22" height="22">
+                <a id="downarrow" href="#" onclick="javascript:scrollToAnchor('aboutus');">
+                    <img src="assets/images/down-arrow.svg" width="22" height="22">
+                </a>
             </div>
 
+            <a name="aboutus"></a>
             <div class="text-container">
                 <h1 class="super-big has-text-centered">About us</h1>
             </div>
@@ -49,7 +52,7 @@
                 <!-- .column l -->
                 <div class="column is-two-fifths photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/adam-wang-0a218819/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square" >
                         <img src="assets/images/Adam.jpg">
@@ -82,7 +85,7 @@
 
                 <div class="column is-two-fifths photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/faisalmehmood10/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                         <img src="assets/images/Faisal.jpg">
@@ -95,7 +98,7 @@
                 <!-- .column l -->
                 <div class="column is-two-fifths photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/ray-wang-0993b63b/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                         <img src="assets/images/Ray.jpg">
@@ -123,7 +126,7 @@
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/kellson/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                         <img src="assets/images/Kellson.jpg">
@@ -145,7 +148,7 @@
                 <!-- .column l -->
                 <div class="column is-4 photo-profile" id="individual-container">
                     <a target="_blank" href="https://www.linkedin.com/in/ashwathps/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                       <img src="assets/images/Ashwath.jpg">
@@ -162,7 +165,7 @@ various positions in Cisco, Intel & Philips. </p>
                 <!-- .column l -->
                 <div class="column is-4 photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/rahulgolash/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                       <img src="assets/images/Rahul.jpg">
@@ -174,29 +177,6 @@ various positions in Cisco, Intel & Philips. </p>
                 <!-- /.column l -->
             </div>
             <div class="columns is-desktop">
-                <!-- .column l -->
-                <!--<div class="column is-4 photo-profile">
-                    <a target="_blank" href="https://www.linkedin.com/in/eutese-barnes-04212755/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
-                    </a>
-                    <figure class="image is-square">
-                        <img src="assets/images/Eutese.jpg">
-                    </figure>
-                    <h2 class="title">EUTESE BARNES</h2>
-                    <h3 class="subtitle">Regional Marketing Manager - US</h3>
-                    <p class="intro-para">Eutese Barnes is a highly sought after start-up sales pitching agent.
-                      He is the holder of numerous successful IP rights in the collegiate &
-                      professional sports marketing space. In the product licensing industry,
-                      his colleagues call him the “Nostradamus,” of sports promotional products.
-                      His work includes raising seed money for a Hollywood feature film called
-                      “The President”. He has over 25 years of management training, customer
-                      service training, and leading employees. He has personally developed the
-                      “skeleton execution theory,” for start-ups before they launch their
-                      company’s. The theory places emphasis on customer sales, in-house
-                      prototyping, crunching the numbers and lastly having 5 marketing
-                      sales channels.</p>
-                </div>-->
-                <!-- /.column l -->
             </div>
 
 
@@ -209,7 +189,7 @@ various positions in Cisco, Intel & Philips. </p>
                 <!-- .column l -->
                 <div class="column is-2 photo-profile">
                     <a target="_blank" href="https://www.linkedin.com/in/leonard-huang-a1350b69/" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                         <img src="assets/images/Leo.jpg">
@@ -229,7 +209,7 @@ various positions in Cisco, Intel & Philips. </p>
                 <!-- .column l -->
                 <div class="column is-2 photo-profile">
                     <a href="" class="social-icon">
-                        <i class="fa fa-linkedin"></i>
+                        <i class="fab fa-linkedin"></i>
                     </a>
                     <figure class="image is-square">
                       <img src="assets/images/Ivan.jpg">

@@ -24,9 +24,10 @@
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
-                    <div class="tile is-4 is-vertical">
+                    <div class="tile is-8 is-vertical">
                         <h1 class="title">
                             Accounting Ledger on the Blockchain</h1>
+                        <span class="title" style="color:#fff;text-transform:none;font-weight:100;margin-bottom:20px;">Realtime | Cost-effective | Secure</span>
                     </div>
                 </div>
             </div>
@@ -40,7 +41,7 @@
         </section>
         <!-- /.hero-head -->
 
-        <a name="whatwedo">
+        <a name="whatwedo"></a>
         <section class="section is-small">
             <h2 class="section-title has-text-centered">What we do</h2>
         </section>
@@ -52,73 +53,65 @@
           <div class="info_container">
 
             <input class="radio_box" id="tab1" type="radio" name="tabs" checked>
-            <label class="label_container" for="tab1">BLOCKCHAIN TECHNOLOGY</label>
+            <label class="label_container" for="tab1">AUDIT CONFIRMATION</label>
 
             <input class="radio_box" id="tab2" type="radio" name="tabs">
-            <label class="label_container" for="tab2">MODERN ACCOUNTING</label>
+            <label class="label_container" for="tab2">AR/AP MANAGEMENT</label>
 
             <input class="radio_box" id="tab3" type="radio" name="tabs">
-            <label class="label_container" for="tab3">SECURE</label>
+            <label class="label_container" for="tab3">TRUST ACCOUNT AUDIT</label>
 
             <section class="content_container" id="content1" >
-              <div class="columns is-vcentered">
+              <div class="columns">
                   <div class="colums is-6">
                     <iframe width="640" height="360" style="max-width:100%" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">Blockchain technology</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Blockchain is a ledger can be written onto with new information, but the
-                    previous information, stored in blocks, cannot be edited, adjusted or changed. 
-                    Blockchains are based on a consensus-driven mechanism, with mathematical proof 
-                    and decentralized databases is a solution to the above issues. The features of 
-                    the Blockchain are its game changing technology. Any digital form of asset certification, 
-                    recording, registration, storage, trading, payment, circulation can be achieved through 
-                    the Blockchain. The main advantage of the Blockchain is that it requires no intermediary 
-                    participation, the process is efficient and transparent, the cost is low, and the data 
-                    is highly secure.</span></div>
+                  <h2 class="title">Audit Confirmation</h2>
+                  <!--<h3 class="subtitle">Ledger systems</h3>-->
+                  <span>Ledgerium as a confirmation platform is capable of recording transactions between parties on the Blockchain. 
+                      By storing the hash after the data being encrypted could verify and provide proof of the occurrence, completeness, 
+                      accuracy, cut-off of all the transactions.
+                        <br/><br/>
+                        You could send invoices or process bills in your accounting software, and we will handle the confirmation with 
+                        the bank and across different accounting softwares such as Xero, MYOB, QuickBooks, Salesforce and more.
+                    </span></div>
               </div>
             </section>
 
             <section class="content_container" id="content2">
-              <div class="columns is-vcentered">
+              <div class="columns">
 
                   <div class="colums is-6">
                     <iframe width="640" height="360" style="max-width:100%" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">MODERN ACCOUNTING</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Auditors generally use confirmations as the substantive procedure 
-                        during an audit. This process involves obtaining and evaluating a direct 
-                        communication from a third party in response to a request for 
-                        information about a particular item affecting financial statement 
-                        assertions. the current audit confirmation process is slow 
-                        and resource intensive, only a small sample of transactions are audited, 
-                        there is a high degree of errors and overall still prone to fraud. With 
-                        Ledgerium capturing every transaction and writing it onto the 
-                        blockchain and the use of smart contracts to acknowledge and confirm
-                        that the transaction has occurred, significant time and cost savings can be achieved. </span></div>
+                  <h2 class="title">AR/AP Management</h2>
+                  <!--<h3 class="subtitle">Ledger systems</h3>-->
+                  <span>The beauty of Ledgerium is not only confirming transactions being happened, but also a powerful tool to manage your 
+                      account receivable and account payable functions.
+                        <br/><br/>
+                        While sending invoice and paying bills, there is an in-build AI credit rating system for all your transactions. 
+                        Furthermore, data from the blockchain is recognised by the financial institutions to speed up your supply chain finance.
+                    </span></div>
               </div>
             </section>
 
             <section class="content_container" id="content3">
-              <div class="columns is-vcentered">
+              <div class="columns">
                   <div class="colums is-6">
                     <iframe width="640" height="360" style="max-width:100%" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">Secure</h2>
-                  <h3 class="subtitle">Ledger systems</h3>
-                  <span>Security and Privacy are major concerns for all networked systems. As 
-                        such, two key critical components in the ecosystem will address this concern; 
-                        <br/>
-                        <strong>Identity Platform (LIP)</strong>: allows users, including individuals, 
-                        companies, accountants, institutions and governments to register to the 
-                        Ledgerium network, having authenticated accesses through our website or mobile application. 
-                        <br/>
-                        <strong>File System (LFS)</strong>: based on IPFS’ distributed file system to 
-                        provide secure, efficient file store to users across Ledgerium.</span></div>
+                  <h2 class="title">Trust Account Audit</h2>
+                  <!--<h3 class="subtitle">Ledger systems</h3>-->
+                  <span>Trust account is for maintaining clients’ funding by financial institutions, body corporate, strata management, 
+                      real estate agent and lawyer etc. Every ledger will need to be reconciled and examined by auditor. 
+                        <br/><br/>
+                        Ledgerium is a perfect software for managing the trust account reporting and audit. As every transaction of the 
+                        trust accounts will need to be confirmed using smart contract, which will save the businesses and auditors huge 
+                        amount of time, cost and more importantly less fraud.
+                    </span></div>
               </div>
             </section>
           </div>
@@ -136,19 +129,19 @@
                     <div class="tile">
                         <div class="tile is-parent is-vertical is-4">
                             <article class="tile is-child notification bg-blue">
-                                <h2 class="subtitle">Business entities need to be audited</h2>
+                                <h2 class="subtitle">Entities need to be audited</h2>
                             </article>
                         </div>
                         <div class="tile is-parent is-vertical">
                             <article class="tile is-child notification bg-grey">
-                                <h2 class="subtitle">Non-commercial subjects need to be audited</h2>
+                                <h2 class="subtitle">Financial Institutions</h2>
                             </article>
                         </div>
                     </div>
                     <div class="tile">
                         <div class="tile is-parent is-vertical is-8">
                             <article class="tile is-child notification bg-brown-image">
-                                <h2 class="subtitle">Small and medium business need investment</h2>
+                                <h2 class="subtitle">Entities need <br/> AR/AP Management</h2>
                             </article>
                         </div>
                         <div class="tile is-parent is-vertical is-4">
@@ -174,14 +167,14 @@
                         0  0 0 1  0" />
           </filter>
       </svg>
-        <a name="moreinfo">
+        <a name="moreinfo"></a>
         <section class="section is-small">
             <h2 class="section-title has-text-centered">Find out more</h2>
         </section>
 
-        <div class="contact-footer has-text-white" style="height:700px;">
+        <div class="contact-footer has-text-white" style="height:750px;">
             <div class="container has-text-centered">
-            <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Register Free Trial</a>
+            <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Become Test Partner</a>
             <br/>
             <h2 class="subtitle has-text-centered has-text-white is-size-3">or</h2>
             <br/>
@@ -241,22 +234,19 @@
         <div class='carousel carousel-animated carousel-animate-slide' data-size="5">
             <div class='carousel-container'>
                 <div class='carousel-item is-active'>
-                    <figure class="image is-2by1"><img src="assets/images/collinstar-block.png"></figure>
+                    <figure class="image is-2by1"><img src="assets/images/adca-block.png"></figure>
                 </div>
                 <div class='carousel-item'>
-                    <figure class="image is-2by1"><img src="assets/images/hayek-block.png"></figure>
+                    <figure class="image is-2by1"><img src="assets/images/blockchainau-block.png"></figure>
                 </div>
                 <div class='carousel-item'>
-                    <figure class="image is-2by1"><img src="assets/images/async-block.png"></figure>
+                    <figure class="image is-2by1"><img src="assets/images/fintechau-block.png"></figure>
+                </div>
+                <div class='carousel-item'>
+                    <figure class="image is-2by1"><img src="assets/images/fmaa-block.png"></figure>
                 </div>
                 <div class='carousel-item'>
                     <figure class="image is-2by1"><img src="assets/images/winvestor-block.png"></figure>
-                </div>
-                <div class='carousel-item'>
-                    <figure class="image is-2by1"><img src="assets/images/fintech-block.png"></figure>
-                </div>
-                <div class='carousel-item'>
-                    <figure class="image is-2by1"><img src="assets/images/collinstar-block.png"></figure>
                 </div>
             </div>
         </div>

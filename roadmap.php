@@ -28,9 +28,12 @@
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
-                <img src="assets/images/down-arrow.svg" width="22" height="22">
+                <a id="downarrow" href="#" onclick="javascript:scrollToAnchor('roadmap');">
+                    <img src="assets/images/down-arrow.svg" width="22" height="22">
+                </a>
             </div>
 
+            <a name="roadmap"></a>
             <div class="text-container">
                 <h1 class="super-big has-text-centered">Roadmap</h1>
             </div>

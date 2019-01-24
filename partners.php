@@ -75,60 +75,12 @@
                     </a>
                 </div>
                 <div class="column is-2 photo-profile">
-                    <a href="https://www.blockchainaustralia.org/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/blockchainau.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <!-- /.column l -->
-            </div>
-
-            <div class="columns is-desktop is-vcentered">
-                <!-- .column l -->
-                <div class="column is-2 photo-profile">
-                    <a href="http://adca.asn.au/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/adca.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="https://fintechaustralia.org.au/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/fintechau.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="http://www.finreview.com/?s=Ledgerium" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/fintechreview.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="https://issuewire.com/ledgerium-revolutionalizes-the-blockchain-accounting-world-1600283570832678" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/issuewire.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="https://www.chipin.com/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/c.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
                     <a href="#">
                         <figure class="image">
                             <img src="assets/images/icp.jpg">
                         </figure>
                     </a>
                 </div>
-                <!-- /.column l -->
             </div>
 
             <div class="columns is-desktop is-vcentered">
@@ -152,6 +104,41 @@
                             <img src="assets/images/hiwayslawyers.jpg">
                         </figure>
                     </a>
+                </div>
+                <div class="column is-2 photo-profile">
+                    <a href="https://www.huobi.com.au/" target="_blank">
+                        <figure class="image">
+                            <img src="assets/images/huobiaustralia.jpg">
+                        </figure>
+                    </a>
+                </div>
+                <div class="column is-2 photo-profile">
+                    <a href="https://blockchainglobal.com/" target="_blank">
+                        <figure class="image">
+                            <img src="assets/images/blockchainglobal.jpg">
+                        </figure>
+                    </a>
+                </div>
+                <div class="column is-2 photo-profile">
+                    <a href="https://acx.io/" target="_blank">
+                        <figure class="image">
+                            <img src="assets/images/acx.jpg">
+                        </figure>
+                    </a>
+                </div>
+            </div>
+            <div class="columns is-desktop is-vcentered">
+                <div class="column is-2 photo-profile">
+                    <a href="http://www.apicgroup.com.au/" target="_blank">
+                        <figure class="image">
+                            <img src="assets/images/apic.jpg">
+                        </figure>
+                    </a>
+                </div>
+            </div>
+            <div class="columns is-desktop is-vcentered">
+                <div class="column is-12" style="text-align:center">
+                    <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Become Test Partner</a>
                 </div>
             </div>
         </div>
