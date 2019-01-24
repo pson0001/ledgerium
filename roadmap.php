@@ -107,7 +107,7 @@
                 <div class="container">
                     <div class="columns is-desktop is-vcentered">
                         <div class="column is-8">
-                            <h1 class="title">Ledgerium is the company that shall bring Blockchain to the accounting
+                            <h1 class="title" style="font-size:32px;line-height:40px;">Ledgerium is the company that shall bring Blockchain to the accounting
 and audit industry. We aim to create a decentralized ledger through a triple
 entry accounting system and revolutionise the traditional audit procedure.
 We believe in the trust mechanism of Blockchain that will allow small and

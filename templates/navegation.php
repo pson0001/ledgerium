@@ -14,6 +14,9 @@
     <div class="navbar-end">
     <div id="navbar" class="navbar-menu">
     <div class="navbar-start">
+      <a href="https://ledgerium.typeform.com/to/z4jsTC" style="color:#DCA576" target="_blank" class="navbar-item">
+        Free Trial
+      </a>
       <a href="about-us.php" class="navbar-item">
         About us
       </a>

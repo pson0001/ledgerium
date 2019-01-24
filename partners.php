@@ -143,7 +143,7 @@
             </div>
         </div>
 
-        <!--<section class="section is-small"></section>-->
+        <section class="section is-small"></section>
 
         <!-- /.content -->
 
