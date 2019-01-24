@@ -25,7 +25,7 @@
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
                     <h1 class="title has-text-centered">
-                      Creating Technology to improve quality of life and work
+                      Creating Technology to improve quality of work and life
                     </h1>
                 </div>
             </div>
