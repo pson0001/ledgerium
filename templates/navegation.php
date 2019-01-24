@@ -1,6 +1,6 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="./">
+    <a class="navbar-item" href="./" style="padding-left:1.5rem">
       <img src="assets/images/ledgerium-logo.svg" width="244" height="48">
     </a>
 
