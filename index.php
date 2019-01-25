@@ -20,7 +20,7 @@
     <body class="front-page">
 
         <!-- .hero-head -->
-        <section class="hero is-fullheight is-large">
+        <section class="hero hero-height  is-large">
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
@@ -33,7 +33,8 @@
             </div>
             <div class="container has-text-centered down-arrow">
                 <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:200px;margin-bottom:60px">Free Trial</a>
-                <br/>
+                <br/></div>
+            <div class="container has-text-centered down-arrow-animate">
                 <a id="downarrow" href="#" onclick="javascript:scrollToAnchor('whatwedo');">
                     <img src="assets/images/down-arrow.svg" width="22" height="22">
                 </a>

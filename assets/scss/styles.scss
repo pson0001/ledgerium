@@ -33,7 +33,7 @@ body {
 
         .columns {
             display: block;
-vertical-align: top;
+            vertical-align: top;
             @include tablet {
                 display: flex;
             }
@@ -189,6 +189,16 @@ a {
             bottom: $column-gap * 16;
         }
     }
+    .down-arrow-animate {
+        position: relative;
+        bottom: 20vh;
+        animation: bounce 1.8s ease-in-out infinite;
+      }
+      @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-10px);}
+      60% {transform: translateY(-5px);}
+  }
 }
 
 // Titles
@@ -280,7 +290,7 @@ input:checked + label {
 // Footer
 
 .footer {
-    background: $color__brand-dark-blue;
+    background: $color__brand-blue;
     color: $color__white;
 
     a {
@@ -386,6 +396,9 @@ input:checked + label {
 // Front-page
 
 .front-page {
+      .hero-height {
+        height: 90vh;
+      }
     .hero {
         background: url("../images/city-ledgerium.png") center / cover $color__brand-blue;
     }
@@ -588,9 +601,15 @@ input:checked + label {
         margin: 0.5rem 0 0;
         padding: 1.5rem 3rem;
         width: 100%;
-
+        transition: all 150ms linear;
         @include typography--font(18px, 'roboto', $font__weight--bold, 19px);
+
+        &:hover{
+            box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.3);
+            transition: all 250ms linear;
+        }
     }
+    
 }
 
 .subtitle {
