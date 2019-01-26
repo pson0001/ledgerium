@@ -32,13 +32,11 @@
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
-                <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:200px;margin-bottom:60px">Free Trial</a>
-                <br/></div>
-            <div class="container has-text-centered down-arrow-animate">
+                <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:60px">Become Test Partner</a>
+                <br/>
                 <a id="downarrow" href="#" onclick="javascript:scrollToAnchor('whatwedo');">
                     <img src="assets/images/down-arrow.svg" width="22" height="22">
-                </a>
-            </div>
+                </a></div>
         </section>
         <!-- /.hero-head -->
 
@@ -173,61 +171,10 @@
             <h2 class="section-title has-text-centered">Find out more</h2>
         </section>
 
-        <div class="contact-footer has-text-white" style="height:750px;">
+        <div class="contact-footer has-text-white" style="height:250px;">
             <div class="container has-text-centered">
-            <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Become Test Partner</a>
-            <br/>
-            <h2 class="subtitle has-text-centered has-text-white is-size-3">or</h2>
-            <br/>
-            <script type="text/javascript">
-                $(document).ready(function()
-                {
-                    $('#contactform').load('https://www.ledgerium.net/ledgerium/ .wpcf7-form');
-                })
-            </script>
-                <div class="form">
-                    <h2 class="subtitle has-text-centered has-text-white is-size-3">Get our pitch pack</h2>
-
-                    <div id="contactform"></div>
-                    <!--<div class="columns">
-                        <div class="column is-6">
-
-                            <div class="control">
-                                <label>Name</label>
-                                <input class="input is-medium" type="text" placeholder="Your name">
-                            </div>
-                            <div class="control">
-                                <label>Company</label>
-                                <input class="input is-medium" type="text" placeholder="Your company name">
-                            </div>
-                            <div class="control">
-                                <a class="button is-medium">Submit</a>
-                            </div>
-
-                        </div>
-                        <div class="column is-6">
-
-                            <div class="control">
-                                <label>Email</label>
-                                <input class="input is-medium" type="text" placeholder="Your email">
-                            </div>
-                            <div class="control">
-                                <label>Message</label>
-                                <textarea
-                                    class="textarea is-medium"
-                                    type="textarea"
-                                    placeholder="Your message"
-                                    rows="3"
-                                    cols="33"
-                                    maxlength="200"></textarea>
-                            </div>
-
-                        </div>
-
-                    </div>
-                    -->
-                </div>
-            </div>
+                <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Become Test Partner</a>
+            </div> 
         </div>
 
 

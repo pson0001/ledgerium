@@ -42,7 +42,7 @@
 
         <!-- .content -->
         <section class="section is-small">
-            <h2 class="section-title has-text-centered">Helping businness to use blockchain</h2>
+            <h2 class="section-title has-text-centered">Helping businness to use Ledgerium product</h2>
         </section>
 
         <div class="container">
@@ -52,7 +52,7 @@
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2018 QUARTER 4</h2>
-                        <p>Implement wallet & blockchain look up features.
+                        <p>Implement wallet look up features.
                             Complete cross platform frontend for smart contract execution.
                             Release on ethereum main-net for testing.
                             Marketing campaign in Asia-pacific region, including the

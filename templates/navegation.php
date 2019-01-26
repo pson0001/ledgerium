@@ -14,9 +14,9 @@
     <div class="navbar-end">
     <div id="navbar" class="navbar-menu">
     <div class="navbar-start">
-      <a href="https://ledgerium.typeform.com/to/z4jsTC" style="color:#DCA576" target="_blank" class="navbar-item">
+      <!-- <a href="https://ledgerium.typeform.com/to/z4jsTC" style="color:#DCA576" target="_blank" class="navbar-item">
         Free Trial
-      </a>
+      </a> -->
       <a href="about-us.php" class="navbar-item">
         About us
       </a>
@@ -50,7 +50,7 @@
           <a class="navbar-item" href="./#moreinfo">
           Pitch Pack
           </a>
-          <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a>
+          <!-- <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a> -->
         </div>
       </div>
       <a href="contact-us.php" class="navbar-item">

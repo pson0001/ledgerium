@@ -25,7 +25,7 @@
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
                     <h1 class="title has-text-centered">
-                      Creating Technology to improve quality of work and life
+                      Creating technology to improve quality of work and life
                     </h1>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                     </figure>
                 </div>
                 <div class="column content">
-                    <h2 class="title">ADAM WANG CA</h2>
+                    <h2 class="title">ADAM WANG</h2>
                     <h3 class="subtitle">Chief Executive Officer</h3>
                     <p>Chartered accountant of Australia and New Zealand; Adam started as an accountant, gathering 14 years of experience in the financial industry, super funds, F&B, and software development. Adam previously held a management role in a self-managed super fund (SMSF), and has managed over 800 million AUD in super fund assets at top-tier companies. Adam was a Director of HR at Chunky Town Australia, a committee member of the Australian Macau Business Council, a member of the Taiwanese Chamber of Commerce, a committee member of the Australian Chinese Jockey Club (ACJC) and holds his own regular radio show in Australia.</p>
                 </div>
@@ -153,7 +153,7 @@
                     <figure class="image is-square">
                       <img src="assets/images/Ashwath.jpg">
                     </figure>
-                    <h2 class="title">ASHWATH PAEATAL</h2>
+                    <h2 class="title">ASHWATH SHANKAR P</h2>
                     <h3 class="subtitle">Blockchain Architect</h3>
                     <p class="intro-para">A software architect, cloud enthusiast and a polyglot with experience in software
 engineering and abundant passion for building great software. He has worked as
