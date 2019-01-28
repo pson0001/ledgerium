@@ -71,7 +71,7 @@
                   <div class="column is-offset-1 is-5 content" id="paragraph">
                   <!--<h2 class="title">Audit Confirmation</h2>-->
                   <!--<h3 class="subtitle">Ledger systems</h3>-->
-                  <span>Ledgerium as a confirmation platform is capable of recording transactions between parties on the Blockchain. 
+                  <span>Luca&trade; by Ledgerium as a confirmation platform is capable of recording transactions between parties on the Blockchain. 
                       By storing the hash after the data being encrypted could verify and provide proof of the occurrence, completeness, 
                       accuracy, cut-off of all the transactions.
                         <br/><br/>

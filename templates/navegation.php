@@ -47,7 +47,7 @@
           <a class="navbar-item" href="https://www.ledgerium.net/files/Ledgerium_Executive_Summary.pdf" target="_blank">
             Executive Summary
           </a>
-          <a class="navbar-item" href="./#moreinfo">
+          <a class="navbar-item" href="./contact-us.php">
           Pitch Pack
           </a>
           <!-- <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a> -->
