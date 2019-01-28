@@ -70,7 +70,7 @@
                 <!-- .column l -->
                 <div class="column content">
                     <h2 class="title">Faisal Mehmood</h2>
-                    <h3 class="subtitle">Chief Technology Officer</h3>
+                    <h3 class="subtitle">Founder</h3>
                     <p>Faisal aka “electo” is also very active in trading communities and provides a
                         lot of technical feedback and education around bitcoin and trading in general.
                         Faisal has worked with many of the top 100 fortune companies creating and
@@ -106,7 +106,7 @@
                 </div>
                 <div class="column content">
                     <h2 class="title">RAY WANG</h2>
-                    <h3 class="subtitle">Chief Operation Officer</h3>
+                    <h3 class="subtitle">Founder</h3>
                     <p>Ray has been a professional accountant for more than 10 years,
                       has experiences in both commercial and public accounting industries
                       including working in financial compliance and internal control,
@@ -132,7 +132,7 @@
                         <img src="assets/images/Kellson.jpg">
                     </figure>
                     <h2 class="title">KELLSON MA</h2>
-                    <h3 class="subtitle">Chief Information Officer</h3>
+                    <h3 class="subtitle">Founder</h3>
                     <p class="intro-para">MCSE, MCDBA, MCP; Co-Founder of ChinaDsl.net –
                       One of the largest Chinese broadband support community.
                       Kellson has over 12 years of experiences in software development
@@ -196,7 +196,7 @@ various positions in Cisco, Intel & Philips. </p>
                     </figure>
                 </div>
                 <div class="column is-4 content">
-                    <h2 class="title">LEO HUANG CA</h2>
+                    <h2 class="title">LEO HUANG</h2>
                     <h3 class="subtitle">Chairman</h3>
                     <p class="intro-para">Chartered accountant of Australia and New Zealand; Master of professional
                       accounting; Bachelor of finance; Managing partner of INP group. As a

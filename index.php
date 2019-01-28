@@ -26,7 +26,7 @@
                 <div class="container">
                     <div class="tile is-8 is-vertical">
                         <h1 class="title">
-                            Accounting Ledger on the Blockchain</h1>
+                            Bridging Trust with Blockchain</h1>
                         <span class="title" style="color:#fff;text-transform:none;font-weight:100;margin-bottom:20px;">Realtime | Cost-effective | Secure</span>
                     </div>
                 </div>
@@ -55,10 +55,13 @@
             <label class="label_container" for="tab1">AUDIT CONFIRMATION</label>
 
             <input class="radio_box" id="tab2" type="radio" name="tabs">
+            <label class="label_container" for="tab1">COMING SOON</label>
+
+            <!--<input class="radio_box" id="tab2" type="radio" name="tabs">
             <label class="label_container" for="tab2">AR/AP MANAGEMENT</label>
 
             <input class="radio_box" id="tab3" type="radio" name="tabs">
-            <label class="label_container" for="tab3">TRUST ACCOUNT AUDIT</label>
+            <label class="label_container" for="tab3">TRUST ACCOUNT AUDIT</label>-->
 
             <section class="content_container" id="content1" >
               <div class="columns">
@@ -66,7 +69,7 @@
                     <iframe width="640" height="360" style="max-width:100%" src="https://www.youtube.com/embed/RyZtL4OCPCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
                   </div>
                   <div class="column is-offset-1 is-5 content" id="paragraph">
-                  <h2 class="title">Audit Confirmation</h2>
+                  <!--<h2 class="title">Audit Confirmation</h2>-->
                   <!--<h3 class="subtitle">Ledger systems</h3>-->
                   <span>Ledgerium as a confirmation platform is capable of recording transactions between parties on the Blockchain. 
                       By storing the hash after the data being encrypted could verify and provide proof of the occurrence, completeness, 
