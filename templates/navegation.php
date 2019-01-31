@@ -1,6 +1,6 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="./" style="padding-left:2rem">
+    <a class="navbar-item" href="./" style="padding-left:1.5rem">
       <img src="assets/images/ledgerium-logo.svg" width="244" height="48">
     </a>
 
@@ -44,13 +44,10 @@
             Investors
         </a>
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="https://www.ledgerium.net/files/Ledgerium_Executive_Summary.pdf" target="_blank">
-            Executive Summary
-          </a>
           <a class="navbar-item" href="./contact-us.php">
-          Pitch Pack
+          Get Pitch Pack
           </a>
-          <!-- <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a> -->
+          <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a>
         </div>
       </div>
       <a href="contact-us.php" class="navbar-item">

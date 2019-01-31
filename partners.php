@@ -138,7 +138,7 @@
             </div>
             <div class="columns is-desktop is-vcentered">
                 <div class="column is-12" style="text-align:center">
-                    <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:300px;margin-bottom:40px">Become Test Partner</a>
+                    <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:320px;margin-bottom:40px">Become A Test Partner</a>
                 </div>
             </div>
         </div>

@@ -24,7 +24,7 @@
             <div class="hero-body">
                 <?php include('templates/navegation.php'); ?>
                 <div class="container">
-                    <h1 class="title has-text-centered">Build your way with Ledgerium</h1>
+                    <h1 class="title has-text-centered">Trust your business with Ledgerium</h1>
                 </div>
             </div>
             <div class="container has-text-centered down-arrow">
@@ -52,39 +52,44 @@
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2018 QUARTER 4</h2>
-                        <p>Implement wallet look up features.
-                            Complete cross platform frontend for smart contract execution.
-                            Release on ethereum main-net for testing.
-                            Marketing campaign in Asia-pacific region, including the
-                            US, Canada, Australia and China. </p>
+                        <p>UI/UX, system architecture design.
+                            Implement and complete MVP.
+                            Complete internal testnet.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 1</h2>
-                        <p>Implementation of Proof of Stake with masternood support.
-                            Implement number of supporting EIPs.
-                            Marketing campaign in Asia-pacific region, including
-                            the US, Japan, South Korea and Singapore.</p>
+                        <p>Release public testnet. Rollout initial version to testing partners. Design and implement beta product features.
+                        </p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 2</h2>
-                        <p>Release IOS and Android application. Main-net going live, token swap.
+                        <p>Mainnet going live. Second major version release to testing partner.
                           Implementation of Ledgerium Identity Services.
-                          Marketing campaign in Europe region.</p>
+                          Integration with more platforms.
+                        </p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 3</h2>
-                        <p>Full public release of complete platform globally.
-                            Design and implement on further features and
-                            design milestone for next iteration - Internal Control.</p>
+                        <p>Production verion release for partner testing. Release third party SDK & APIs.
+                            Integration with additional platforms.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h2 class="subtitle">2019 QUARTER 4</h2>
+                        <p>Banking system integration. Global public release frontend and services. 
+                            Government certifications. Implement future product features.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -107,13 +112,11 @@
                 <div class="container">
                     <div class="columns is-desktop is-vcentered">
                         <div class="column is-8">
-                            <h1 class="title" style="font-size:32px;line-height:40px;">Ledgerium is the company that shall bring Blockchain to the accounting
-and audit industry. We aim to create a decentralized ledger through a triple
-entry accounting system and revolutionise the traditional audit procedure.
-We believe in the trust mechanism of Blockchain that will allow small and
-medium businesses to access auditing and other high-level accounting services
-previously only available to large companies, allowing a fairer, more transparent
-business world to flourish.</h1>
+                            <h1 class="title" style="font-size:32px;line-height:40px;">Ledgerium focuses on bring blockchain to the accounting and auditing industry. 
+                            We aim to create a decentralized ledger through a triple entry accounting system that comprises three major components: Audit Confirmation, 
+                            AP/AR Management, and Trust Account Audit. All these are deliveried via a reliable cloud based platform to provide great flexibility and scalability.  
+                            Ledgerium also integrates with major accounting platforms and banking systems to enable seamless experience to all our customers. 
+                            </h1>
                         </div>
                         <div class="column is-3 is-offset-1">
                             <figure class="image is-square">
