@@ -132,7 +132,7 @@
                         <div class="tile is-parent is-vertical is-4">
                             <article class="tile is-child notification bg-brown effect effect-slide">
                                 <h2 class="subtitle effect_heading">Non for profit</h2>
-                                <h2 class="subtitle effect_subheading">Better compliance with improved transparency</h2>
+                                <h2 class="subtitle effect_subheading">Compliance with improved transparency</h2>
                             </article>
                         </div>
                     </div>

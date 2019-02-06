@@ -47,7 +47,7 @@
           <a class="navbar-item" href="./contact-us.php">
           Get Pitch Pack
           </a>
-          <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a>
+          <!-- <a class="navbar-item" href="https://etherscan.io/token/0x598c9a4f069dc076984868873c01e78a905d50e6" target="_blank">Token Info</a> -->
         </div>
       </div>
       <a href="contact-us.php" class="navbar-item">

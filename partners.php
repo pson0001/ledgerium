@@ -35,7 +35,7 @@
             <h2 class="section-title has-text-centered">Investors</h2>
         </section>-->
 
-        <div class="container">
+        <div class="container" style="min-height:50vh;">
 
             <div class="columns is-desktop is-vcentered">
                 <!-- .column l -->
@@ -54,20 +54,6 @@
                     </a>
                 </div>
                 <div class="column is-2 photo-profile">
-                    <a href="http://hayek.capital/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/hayek.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
-                    <a href="http://asynccapital.com/" target="_blank">
-                        <figure class="image">
-                            <img src="assets/images/async.jpg">
-                        </figure>
-                    </a>
-                </div>
-                <div class="column is-2 photo-profile">
                     <a href="https://wholesaleinvestor.com.au/" target="_blank">
                         <figure class="image">
                             <img src="assets/images/winvestor.jpg">
@@ -81,9 +67,6 @@
                         </figure>
                     </a>
                 </div>
-            </div>
-
-            <div class="columns is-desktop is-vcentered">
                 <div class="column is-2 photo-profile">
                     <a href="https://inpgroup.com.au/" target="_blank">
                         <figure class="image">
@@ -98,6 +81,9 @@
                         </figure>
                     </a>
                 </div>
+            </div>
+
+            <div class="columns is-desktop is-vcentered">
                 <div class="column is-2 photo-profile">
                     <a href="http://www.hiwayslaw.com/en" target="_blank">
                         <figure class="image">
@@ -126,8 +112,6 @@
                         </figure>
                     </a>
                 </div>
-            </div>
-            <div class="columns is-desktop is-vcentered">
                 <div class="column is-2 photo-profile">
                     <a href="http://www.apicgroup.com.au/" target="_blank">
                         <figure class="image">
@@ -136,9 +120,10 @@
                     </a>
                 </div>
             </div>
+
             <div class="columns is-desktop is-vcentered">
                 <div class="column is-12" style="text-align:center">
-                    <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:320px;margin-bottom:40px">Become A Test Partner</a>
+                    <a href="https://ledgerium.typeform.com/to/z4jsTC" target="_blank" class="button is-medium" style="width:320px;margin-top:40px;margin-bottom:40px">Become A Test Partner</a>
                 </div>
             </div>
         </div>

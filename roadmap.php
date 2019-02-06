@@ -54,14 +54,14 @@
                         <h2 class="subtitle">2018 QUARTER 4</h2>
                         <p>UI/UX, system architecture design.
                             Implement and complete MVP.
-                            Complete internal testnet.</p>
+                            Release public testnet.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 1</h2>
-                        <p>Release public testnet. Rollout initial version to testing partners. Design and implement beta product features.
+                        <p>Release public mainnet. Rollout initial version to testing partners. Release wallet.
                         </p>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 2</h2>
                         <p>Mainnet going live. Second major version release to testing partner.
-                          Implementation of Ledgerium Identity Services.
+                          Implementation and release beta frontend.
                           Integration with more platforms.
                         </p>
                     </div>
@@ -79,15 +79,14 @@
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 3</h2>
-                        <p>Production verion release for partner testing. Release third party SDK & APIs.
-                            Integration with additional platforms.</p>
+                        <p>Genearl releases, mobile apps, 1-click deployments. End to end accounting system integration.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h2 class="subtitle">2019 QUARTER 4</h2>
-                        <p>Banking system integration. Global public release frontend and services. 
+                        <p>More financial system integration. Global public release frontend and services. 
                             Government certifications. Implement future product features.
                         </p>
                     </div>
@@ -112,7 +111,7 @@
                 <div class="container">
                     <div class="columns is-desktop is-vcentered">
                         <div class="column is-8">
-                            <h1 class="title" style="font-size:32px;line-height:40px;">Ledgerium focuses on bring blockchain to the accounting and auditing industry. 
+                            <h1 class="title" style="font-size:32px;line-height:40px;">Ledgerium focuses on bringing blockchain to the accounting and auditing industry. 
                             We aim to create a decentralized ledger through a triple entry accounting system that comprises three major components: Audit Confirmation, 
                             AP/AR Management, and Trust Account Audit. All these are deliveried via a reliable cloud based platform to provide great flexibility and scalability.  
                             Ledgerium also integrates with major accounting platforms and banking systems to enable seamless experience to all our customers. 

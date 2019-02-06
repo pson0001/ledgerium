@@ -154,7 +154,7 @@
                       <img src="assets/images/Ashwath.jpg">
                     </figure>
                     <h2 class="title">ASHWATH SHANKAR P</h2>
-                    <h3 class="subtitle">Blockchain Architect</h3>
+                    <h3 class="subtitle">Architect</h3>
                     <p class="intro-para">A software architect, cloud enthusiast and a polyglot with experience in software
 engineering and abundant passion for building great software. He has worked as
 a solutions consultant at PWC, led the architecture for NVidia games and led in
@@ -171,7 +171,7 @@ various positions in Cisco, Intel & Philips. </p>
                       <img src="assets/images/Rahul.jpg">
                     </figure>
                     <h2 class="title">RAHUL GOLASH</h2>
-                    <h3 class="subtitle">Blockchain Architect</h3>
+                    <h3 class="subtitle">Architect</h3>
                     <p class="intro-para">Rahul is a blockchain practitioner brings 17 years in software industry experience, specialized in driving product strategy, development, maintenance & support and management of small to large sized, scalable, high volume transactional, distributed software systems in Financial Security-Mutual Fund domain, System Management and Healthcare domain.</p>
                 </div>
                 <!-- /.column l -->
@@ -197,7 +197,7 @@ various positions in Cisco, Intel & Philips. </p>
                 </div>
                 <div class="column is-4 content">
                     <h2 class="title">LEO HUANG</h2>
-                    <h3 class="subtitle">Chairman</h3>
+                    <h3 class="subtitle">Advisor</h3>
                     <p class="intro-para">Chartered accountant of Australia and New Zealand; Master of professional
                       accounting; Bachelor of finance; Managing partner of INP group. As a
                       leading principal in his firm, Mr. Huang has extensive knowledge and
