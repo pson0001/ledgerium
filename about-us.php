@@ -216,7 +216,7 @@ various positions in Cisco, Intel & Philips. </p>
                     </figure>
                 </div>
                 <div class="column is-4 content">
-                    <h2 class="title"> IVAN CHEAH</h2>
+                    <h2 class="title">IVAN CHEAH</h2>
                     <h3 class="subtitle">Advisor</h3>
                     <p class="intro-para">Ivan is a business executive with over 15 years of experience and a
                         background in marketing and finance. He has held senior roles in
@@ -228,7 +228,31 @@ various positions in Cisco, Intel & Philips. </p>
                 <!-- /.column l -->
             </div>
 
-            <svg>
+            <section class="section is-small"></section>
+            
+            <div class="columns is-desktop">
+                <div class="column is-2 photo-profile">
+                    <a target="_blank" href="https://www.linkedin.com/in/jana-schmitz-96847144/" class="social-icon">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <figure class="image is-square">
+                      <img src="assets/images/Jana.jpg">
+                    </figure>
+                </div>
+                <div class="column is-4 content">
+                    <h2 class="title">JANA SCHMITZ</h2>
+                    <h3 class="subtitle">Advisor</h3>
+                    <p class="intro-para">Bachelor (Business Administration); Master (International 
+                    Business with specialisation in Private Wealth Management); PhD (Accountancy). 
+                    At RMIT University Jana is currently conducting research on the impacts blockchain 
+                    technology has on the accounting and auditing profession. Before she settled in Australia, 
+                    Jana worked as an auditor for the German government. She commented on International Public 
+                    Sector Accounting Standards (IPSAS) and was involved in the development of the Conceptual 
+                    Framework for European Public Sector Accounting Standards (EPSAS).</p>
+                </div>
+            </div>
+
+            <svg style="display:none;">
               <filter id="blue-tint" color-interpolation-filters="sRGB">
                 <feColorMatrix type="matrix"
                   values="0.44 0 0 0  0.00

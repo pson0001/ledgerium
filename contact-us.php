@@ -83,7 +83,7 @@
                         <div class="columns">
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Address</h3>
-                                <p>Ground level East, 65 Southbank Blvd, Boulevard, VIC, 3006</p>
+                                <p>Ground Level East, 65 Southbank Blvd, Southbank, VIC, 3006</p>
                             </div>
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Email</h3>
@@ -91,7 +91,7 @@
                             </div>
                             <div class="column is-4">
                                 <h3 class="subtitle mark">Phone</h3>
-                                <p>03 9005 5308</p>
+                                <p>+61 3 9005 5308</p>
                             </div>
                         </div>
                     </div>
